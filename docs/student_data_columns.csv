@@ -1,0 +1,198 @@
+Column Heading,Description,Survey Section Heading,Survey Instructions,Scale
+Student_ID,Identifier assigned to study participants.,N/A,N/A,N/A
+Participating_Course_Grade,Student's course grade for the course in which writing assignments and surveys were submitted.,N/A,N/A,0.0-4.0
+FINAL_SAT_total,"Variable capturing participants' SAT Total scores, which combines Evidence-Based Reading and Writing and Math scores.  If students completed the test more than once, the SAT Total score reflects the highest scores. Old SAT scores were concorded to new SAT (beginning in March 2016) scores using tables 11 and 12 of the Concordance Tables: Old SAT Scores to New SAT Scores (https://collegereadiness.collegeboard.org/educators/higher-ed/scoring/concordance).  In cases where participants' ACT scores were submitted, we used the 2018 ACT Composite to SAT Total concordance table (Table A.2) to recode ACT Composite scores as SAT Total Scores (https://collegereadiness.collegeboard.org/pdf/guide-2018-act-sat-concordance.pdf).  
+
+For more information on concordance, see The College Board. (n.d.). Concordance. Retrieved from https://collegereadiness.collegeboard.org/educators/higher-ed/scoring/concordance.",N/A,N/A,400-1600
+StudySemester_cumGPA,Student's cumulative GPA at the end of the semester in which students joined the study and submitted writing assignments.,N/A,N/A,0.0-4.0
+Q3.7_Writing_Attitudes_Survey,Good writers discover new ideas while writing.,Part 3: Beliefs About Writing,Please read the following and circle the number 1-5 that best describes how much you disagree or agree with each belief statement. ,"1 = Strongly Disagree
+2 = Disagree
+3 = Neither agree nor disagree
+4 = Agree
+5 = Strongly Agree"
+Q3.4_Writing_Attitudes_Survey,Good writers do not make errors in spelling.,Part 3: Beliefs About Writing,Please read the following and circle the number 1-5 that best describes how much you disagree or agree with each belief statement. ,"1 = Strongly Disagree
+2 = Disagree
+3 = Neither agree nor disagree
+4 = Agree
+5 = Strongly Agree"
+Q3.10_Writing_Attitudes_Survey,Good writers have to be able to write long sentences correctly.,Part 3: Beliefs About Writing,Please read the following and circle the number 1-5 that best describes how much you disagree or agree with each belief statement. ,"1 = Strongly Disagree
+2 = Disagree
+3 = Neither agree nor disagree
+4 = Agree
+5 = Strongly Agree"
+Q3.9_Writing_Attitudes_Survey,Good writers need little revision because they get it right the first time.,Part 3: Beliefs About Writing,Please read the following and circle the number 1-5 that best describes how much you disagree or agree with each belief statement. ,"1 = Strongly Disagree
+2 = Disagree
+3 = Neither agree nor disagree
+4 = Agree
+5 = Strongly Agree"
+Q2.12_Writing_Attitudes_Survey,I can avoid distractions while I write.,Part 2: Confidence About Writing Tasks,"Please rate your confidence that you can do each of these writing tasks by circling a number for your percent confidence. For example, 100% means you are positive you can do it; 0% means you are sure you cannot do it; 50% means you think there is an equal chance that you can do it or not. Read each sentence and circle the number that best represents how confident you are about doing that task. ",0% (no chance)-100% (completely sure)
+Q2.14_Writing_Attitudes_Survey,I can come up with original ideas for my writing.,Part 2: Confidence About Writing Tasks,"Please rate your confidence that you can do each of these writing tasks by circling a number for your percent confidence. For example, 100% means you are positive you can do it; 0% means you are sure you cannot do it; 50% means you think there is an equal chance that you can do it or not. Read each sentence and circle the number that best represents how confident you are about doing that task. ",0% (no chance)-100% (completely sure)
+Q2.13_Writing_Attitudes_Survey,I can end an essay with a strong conclusion.,Part 2: Confidence About Writing Tasks,"Please rate your confidence that you can do each of these writing tasks by circling a number for your percent confidence. For example, 100% means you are positive you can do it; 0% means you are sure you cannot do it; 50% means you think there is an equal chance that you can do it or not. Read each sentence and circle the number that best represents how confident you are about doing that task. ",0% (no chance)-100% (completely sure)
+Q2.6_Writing_Attitudes_Survey,I can evaluate whether I am making progress in learning to write.,Part 2: Confidence About Writing Tasks,"Please rate your confidence that you can do each of these writing tasks by circling a number for your percent confidence. For example, 100% means you are positive you can do it; 0% means you are sure you cannot do it; 50% means you think there is an equal chance that you can do it or not. Read each sentence and circle the number that best represents how confident you are about doing that task. ",0% (no chance)-100% (completely sure)
+Q2.19_Writing_Attitudes_Survey,I can find ideas to write about when I'm given a topic.,Part 2: Confidence About Writing Tasks,"Please rate your confidence that you can do each of these writing tasks by circling a number for your percent confidence. For example, 100% means you are positive you can do it; 0% means you are sure you cannot do it; 50% means you think there is an equal chance that you can do it or not. Read each sentence and circle the number that best represents how confident you are about doing that task. ",0% (no chance)-100% (completely sure)
+Q2.18_Writing_Attitudes_Survey,I can focus on my writing for at least one hour.,Part 2: Confidence About Writing Tasks,"Please rate your confidence that you can do each of these writing tasks by circling a number for your percent confidence. For example, 100% means you are positive you can do it; 0% means you are sure you cannot do it; 50% means you think there is an equal chance that you can do it or not. Read each sentence and circle the number that best represents how confident you are about doing that task. ",0% (no chance)-100% (completely sure)
+Q2.8_Writing_Attitudes_Survey,I can organize paragraphs with ideas to support the topic sentence.,Part 2: Confidence About Writing Tasks,"Please rate your confidence that you can do each of these writing tasks by circling a number for your percent confidence. For example, 100% means you are positive you can do it; 0% means you are sure you cannot do it; 50% means you think there is an equal chance that you can do it or not. Read each sentence and circle the number that best represents how confident you are about doing that task. ",0% (no chance)-100% (completely sure)
+Q2.10_Writing_Attitudes_Survey,I can plan before I write using an outline or organizer.,Part 2: Confidence About Writing Tasks,"Please rate your confidence that you can do each of these writing tasks by circling a number for your percent confidence. For example, 100% means you are positive you can do it; 0% means you are sure you cannot do it; 50% means you think there is an equal chance that you can do it or not. Read each sentence and circle the number that best represents how confident you are about doing that task. ",0% (no chance)-100% (completely sure)
+Q2.16_Writing_Attitudes_Survey,I can plan time to get my writing done by the deadline.,Part 2: Confidence About Writing Tasks,"Please rate your confidence that you can do each of these writing tasks by circling a number for your percent confidence. For example, 100% means you are positive you can do it; 0% means you are sure you cannot do it; 50% means you think there is an equal chance that you can do it or not. Read each sentence and circle the number that best represents how confident you are about doing that task. ",0% (no chance)-100% (completely sure)
+Q2.3_Writing_Attitudes_Survey,I can set goals for improving my writing.,Part 2: Confidence About Writing Tasks,"Please rate your confidence that you can do each of these writing tasks by circling a number for your percent confidence. For example, 100% means you are positive you can do it; 0% means you are sure you cannot do it; 50% means you think there is an equal chance that you can do it or not. Read each sentence and circle the number that best represents how confident you are about doing that task. ",0% (no chance)-100% (completely sure)
+Q2.17_Writing_Attitudes_Survey,I can start an essay with an interesting introduction.,Part 2: Confidence About Writing Tasks,"Please rate your confidence that you can do each of these writing tasks by circling a number for your percent confidence. For example, 100% means you are positive you can do it; 0% means you are sure you cannot do it; 50% means you think there is an equal chance that you can do it or not. Read each sentence and circle the number that best represents how confident you are about doing that task. ",0% (no chance)-100% (completely sure)
+Q2.22_Writing_Attitudes_Survey,I can tell when to use different writing strategies.,Part 2: Confidence About Writing Tasks,"Please rate your confidence that you can do each of these writing tasks by circling a number for your percent confidence. For example, 100% means you are positive you can do it; 0% means you are sure you cannot do it; 50% means you think there is an equal chance that you can do it or not. Read each sentence and circle the number that best represents how confident you are about doing that task. ",0% (no chance)-100% (completely sure)
+Q2.4_Writing_Attitudes_Survey,I can think of a lot of ideas for my writing.,Part 2: Confidence About Writing Tasks,"Please rate your confidence that you can do each of these writing tasks by circling a number for your percent confidence. For example, 100% means you are positive you can do it; 0% means you are sure you cannot do it; 50% means you think there is an equal chance that you can do it or not. Read each sentence and circle the number that best represents how confident you are about doing that task. ",0% (no chance)-100% (completely sure)
+Q2.9_Writing_Attitudes_Survey,I can think of many words to describe my ideas.,Part 2: Confidence About Writing Tasks,"Please rate your confidence that you can do each of these writing tasks by circling a number for your percent confidence. For example, 100% means you are positive you can do it; 0% means you are sure you cannot do it; 50% means you think there is an equal chance that you can do it or not. Read each sentence and circle the number that best represents how confident you are about doing that task. ",0% (no chance)-100% (completely sure)
+Q2.21_Writing_Attitudes_Survey,I can think of the perfect words to express my ideas.,Part 2: Confidence About Writing Tasks,"Please rate your confidence that you can do each of these writing tasks by circling a number for your percent confidence. For example, 100% means you are positive you can do it; 0% means you are sure you cannot do it; 50% means you think there is an equal chance that you can do it or not. Read each sentence and circle the number that best represents how confident you are about doing that task. ",0% (no chance)-100% (completely sure)
+Q2.15_Writing_Attitudes_Survey,I can use commas and semi-colons correctly in my sentences.,Part 2: Confidence About Writing Tasks,"Please rate your confidence that you can do each of these writing tasks by circling a number for your percent confidence. For example, 100% means you are positive you can do it; 0% means you are sure you cannot do it; 50% means you think there is an equal chance that you can do it or not. Read each sentence and circle the number that best represents how confident you are about doing that task. ",0% (no chance)-100% (completely sure)
+Q2.11_Writing_Attitudes_Survey,I can use punctuation correctly in all my sentences.,Part 2: Confidence About Writing Tasks,"Please rate your confidence that you can do each of these writing tasks by circling a number for your percent confidence. For example, 100% means you are positive you can do it; 0% means you are sure you cannot do it; 50% means you think there is an equal chance that you can do it or not. Read each sentence and circle the number that best represents how confident you are about doing that task. ",0% (no chance)-100% (completely sure)
+Q2.7_Writing_Attitudes_Survey,I can write a paper using correct grammar.,Part 2: Confidence About Writing Tasks,"Please rate your confidence that you can do each of these writing tasks by circling a number for your percent confidence. For example, 100% means you are positive you can do it; 0% means you are sure you cannot do it; 50% means you think there is an equal chance that you can do it or not. Read each sentence and circle the number that best represents how confident you are about doing that task. ",0% (no chance)-100% (completely sure)
+Q2.20_Writing_Attitudes_Survey,I can write a paper without spelling mistakes.,Part 2: Confidence About Writing Tasks,"Please rate your confidence that you can do each of these writing tasks by circling a number for your percent confidence. For example, 100% means you are positive you can do it; 0% means you are sure you cannot do it; 50% means you think there is an equal chance that you can do it or not. Read each sentence and circle the number that best represents how confident you are about doing that task. ",0% (no chance)-100% (completely sure)
+Q2.1_Writing_Attitudes_Survey,I can write a paragraph with a clear topic sentence.,Part 2: Confidence About Writing Tasks,"Please rate your confidence that you can do each of these writing tasks by circling a number for your percent confidence. For example, 100% means you are positive you can do it; 0% means you are sure you cannot do it; 50% means you think there is an equal chance that you can do it or not. Read each sentence and circle the number that best represents how confident you are about doing that task. ",0% (no chance)-100% (completely sure)
+Q2.5_Writing_Attitudes_Survey,"I can write a well-organized essay with an introduction, body, & conclusion.",Part 2: Confidence About Writing Tasks,"Please rate your confidence that you can do each of these writing tasks by circling a number for your percent confidence. For example, 100% means you are positive you can do it; 0% means you are sure you cannot do it; 50% means you think there is an equal chance that you can do it or not. Read each sentence and circle the number that best represents how confident you are about doing that task. ",0% (no chance)-100% (completely sure)
+Q2.2_Writing_Attitudes_Survey,I can write complex sentences without making grammatical errors.,Part 2: Confidence About Writing Tasks,"Please rate your confidence that you can do each of these writing tasks by circling a number for your percent confidence. For example, 100% means you are positive you can do it; 0% means you are sure you cannot do it; 50% means you think there is an equal chance that you can do it or not. Read each sentence and circle the number that best represents how confident you are about doing that task. ",0% (no chance)-100% (completely sure)
+Q4.2_Writing_Attitudes_Survey,I don't like to write.,Part 4: How I Feel About Writing,Please read the following and circle the number 1-5 that best describes your overall feelings about writing.,"1 = Strongly Disagree
+2 = Disagree
+3 = Neither agree nor disagree
+4 = Agree
+5 = Strongly Agree"
+Q3.6_Writing_Attitudes_Survey,I learn new things from writing.,Part 3: Beliefs About Writing,Please read the following and circle the number 1-5 that best describes how much you disagree or agree with each belief statement. ,"1 = Strongly Disagree
+2 = Disagree
+3 = Neither agree nor disagree
+4 = Agree
+5 = Strongly Agree"
+Q4.4_Writing_Attitudes_Survey,I think that writing is interesting.,Part 4: How I Feel About Writing,Please read the following and circle the number 1-5 that best describes your overall feelings about writing.,"1 = Strongly Disagree
+2 = Disagree
+3 = Neither agree nor disagree
+4 = Agree
+5 = Strongly Agree"
+Q4.5_Writing_Attitudes_Survey,I try to avoid writing as much as possible.,Part 4: How I Feel About Writing,Please read the following and circle the number 1-5 that best describes your overall feelings about writing.,"1 = Strongly Disagree
+2 = Disagree
+3 = Neither agree nor disagree
+4 = Agree
+5 = Strongly Agree"
+Q4.1_Writing_Attitudes_Survey,I usually enjoy writing.,Part 4: How I Feel About Writing,Please read the following and circle the number 1-5 that best describes your overall feelings about writing.,"1 = Strongly Disagree
+2 = Disagree
+3 = Neither agree nor disagree
+4 = Agree
+5 = Strongly Agree"
+Q5.2_recoded_Writing_Attitudes_Survey,Is English the primary language spoken in your home?,Part 5: Student Background,Please answer each of the following questions to know more about you.,"1=Yes
+2=No (recoded)"
+Q3.12_Writing_Attitudes_Survey,Revising helps me clarify my ideas.,Part 3: Beliefs About Writing,Please read the following and circle the number 1-5 that best describes how much you disagree or agree with each belief statement. ,"1 = Strongly Disagree
+2 = Disagree
+3 = Neither agree nor disagree
+4 = Agree
+5 = Strongly Agree"
+Q3.2_Writing_Attitudes_Survey,Revising is mostly about fixing errors in my grammar.,Part 3: Beliefs About Writing,Please read the following and circle the number 1-5 that best describes how much you disagree or agree with each belief statement. ,"1 = Strongly Disagree
+2 = Disagree
+3 = Neither agree nor disagree
+4 = Agree
+5 = Strongly Agree"
+Q3.5_Writing_Attitudes_Survey,The main problem of poor writers is using incorrect grammar.,Part 3: Beliefs About Writing,Please read the following and circle the number 1-5 that best describes how much you disagree or agree with each belief statement. ,"1 = Strongly Disagree
+2 = Disagree
+3 = Neither agree nor disagree
+4 = Agree
+5 = Strongly Agree"
+Q4.3_Writing_Attitudes_Survey,The process of writing is satisfying for me.,Part 4: How I Feel About Writing,Please read the following and circle the number 1-5 that best describes your overall feelings about writing.,"1 = Strongly Disagree
+2 = Disagree
+3 = Neither agree nor disagree
+4 = Agree
+5 = Strongly Agree"
+Q3.1_Writing_Attitudes_Survey,Writing helps make my ideas clearer.,Part 3: Beliefs About Writing,Please read the following and circle the number 1-5 that best describes how much you disagree or agree with each belief statement. ,"1 = Strongly Disagree
+2 = Disagree
+3 = Neither agree nor disagree
+4 = Agree
+5 = Strongly Agree"
+Q3.3_Writing_Attitudes_Survey,Writing helps me think about my topic in a new way.,Part 3: Beliefs About Writing,Please read the following and circle the number 1-5 that best describes how much you disagree or agree with each belief statement. ,"1 = Strongly Disagree
+2 = Disagree
+3 = Neither agree nor disagree
+4 = Agree
+5 = Strongly Agree"
+Q3.11_Writing_Attitudes_Survey,Writing is one of the best ways to explore new ideas.,Part 3: Beliefs About Writing,Please read the following and circle the number 1-5 that best describes how much you disagree or agree with each belief statement. ,"1 = Strongly Disagree
+2 = Disagree
+3 = Neither agree nor disagree
+4 = Agree
+5 = Strongly Agree"
+Q3.8_Writing_Attitudes_Survey,Writing quickly is an important part of good writing.,Part 3: Beliefs About Writing,Please read the following and circle the number 1-5 that best describes how much you disagree or agree with each belief statement. ,"1 = Strongly Disagree
+2 = Disagree
+3 = Neither agree nor disagree
+4 = Agree
+5 = Strongly Agree"
+Q1.1_Writing_Attitudes_Survey,"When I'm writing, I'm trying to ... improve how I express my ideas.",Part 1: My Goals for Writing,Please read the following and circle the number from 1-5 that best describes your goals for writing. ,"1 = Does not describe me at all
+2
+3 = Somewhat describes me
+4
+5 = Describes me very well"
+Q1.2_Writing_Attitudes_Survey,"When I'm writing, I'm trying to ... keep people from thinking I'm a poor writer.",Part 1: My Goals for Writing,Please read the following and circle the number from 1-5 that best describes your goals for writing. ,"1 = Does not describe me at all
+2
+3 = Somewhat describes me
+4
+5 = Describes me very well"
+Q1.3_Writing_Attitudes_Survey,"When I'm writing, I'm trying to ... hide that I have a hard time writing.",Part 1: My Goals for Writing,Please read the following and circle the number from 1-5 that best describes your goals for writing. ,"1 = Does not describe me at all
+2
+3 = Somewhat describes me
+4
+5 = Describes me very well"
+Q1.4_Writing_Attitudes_Survey,"When I'm writing, I'm trying to ... become a better writer.",Part 1: My Goals for Writing,Please read the following and circle the number from 1-5 that best describes your goals for writing. ,"1 = Does not describe me at all
+2
+3 = Somewhat describes me
+4
+5 = Describes me very well"
+Q1.5_Writing_Attitudes_Survey,"When I'm writing, I'm trying to ... have my classmates believe I can write well.",Part 1: My Goals for Writing,Please read the following and circle the number from 1-5 that best describes your goals for writing. ,"1 = Does not describe me at all
+2
+3 = Somewhat describes me
+4
+5 = Describes me very well"
+Q1.6_Writing_Attitudes_Survey,"When I'm writing, I'm trying to ... avoid making mistakes in front of my classmates.",Part 1: My Goals for Writing,Please read the following and circle the number from 1-5 that best describes your goals for writing. ,"1 = Does not describe me at all
+2
+3 = Somewhat describes me
+4
+5 = Describes me very well"
+Q1.7_Writing_Attitudes_Survey,"When I'm writing, I'm trying to ... persuade others with my writing.",Part 1: My Goals for Writing,Please read the following and circle the number from 1-5 that best describes your goals for writing. ,"1 = Does not describe me at all
+2
+3 = Somewhat describes me
+4
+5 = Describes me very well"
+Q1.8_Writing_Attitudes_Survey,"When I'm writing, I'm trying to ... be a better writer than my classmates.",Part 1: My Goals for Writing,Please read the following and circle the number from 1-5 that best describes your goals for writing. ,"1 = Does not describe me at all
+2
+3 = Somewhat describes me
+4
+5 = Describes me very well"
+Q1.9_Writing_Attitudes_Survey,"When I'm writing, I'm trying to ... hide how nervous I am about writing.",Part 1: My Goals for Writing,Please read the following and circle the number from 1-5 that best describes your goals for writing. ,"1 = Does not describe me at all
+2
+3 = Somewhat describes me
+4
+5 = Describes me very well"
+Q1.10_Writing_Attitudes_Survey,"When I'm writing, I'm trying to ... get my teacher to think I am a good writer.",Part 1: My Goals for Writing,Please read the following and circle the number from 1-5 that best describes your goals for writing. ,"1 = Does not describe me at all
+2
+3 = Somewhat describes me
+4
+5 = Describes me very well"
+Q1.11_Writing_Attitudes_Survey,"When I'm writing, I'm trying to ... better organize my ideas.",Part 1: My Goals for Writing,Please read the following and circle the number from 1-5 that best describes your goals for writing. ,"1 = Does not describe me at all
+2
+3 = Somewhat describes me
+4
+5 = Describes me very well"
+rQ4.2_Writing_Attitudes_Survey,"Reverse-coded version of Q4.2, ""I don't like to write."" 
+
+rQ4.2=6 -Q4.2",Part 5: Student Background,Please answer each of the following questions to know more about you.,1 to 5
+rQ4.5_Writing_Attitudes_Survey,"Reverse-coded version of Q4.5, ""I try to avoid writing as much as possible.""
+
+rQ4.5= 6 - Q4.5",Part 5: Student Background,Please answer each of the following questions to know more about you.,1 to 5
+Survey_conf,"""Confidence"" (also referred to as ""self-efficacy"") refers to students' confidence in their own writing abilities measured on a scale of 0 to 100. Values are calculated based on responses to 22 survey items. 
+
+Survey_conf = Q2.1+Q2.2+Q2.3+Q2.4+Q2.5+Q2.6+Q2.7+Q2.8+Q2.9+Q2.10+Q2.11+Q2.12+Q2.13+Q2.14+Q2.15+Q2.16+Q2.17+Q2.18+Q2.19+Q2.20+Q2.21+Q2.22",Part 2: Confidence About Writing Tasks ,N/A,0 to 2200
+Survey_Blf_Cont,"""Content"" refers to beliefs about the importance of content in writing on a scale of 1 to 5.  It is a subscale of beliefs about writing. Values are calculated based on responses to 6 survey items.  
+
+Survey_Blf_Cont =Q3.1+Q3.3+Q3.6+Q3.7+Q3.11+Q3.12",Part 3: Beliefs About Writing,N/A,6 to 30
+Survey_Blf_Conv,"""Conventions"" refers to beliefs about the importance of conventions in writing on a scale of 1 to 5. It is a subscale of beliefs about writing. Values are calculated based on responses to 6 survey items.  
+
+Survey_Blf_Conv =Q3.2+Q3.4+Q3.5+Q3.8+Q3.9+Q3.10",Part 3: Beliefs About Writing,N/A,6 to 30
+Survey_G_Master,"""Mastery"" refers to a subscale of writing goals (on a scale of 1 to 5) concerning with the development of competence and task mastery. Values are calculated based on responses to 4 survey items. 
+
+Survey_G_Master =Q1.1+Q1.4+Q1.7+Q1.11",Part 1: My Goals for Writing,N/A,4 to 20
+Survey_G_Perform,"""Performance"" (also referred to as ""impressions"") refers to a subscale of writing goals (on a scale of 1 to 5) concerning the demonstration of competence relative to others.  Scores are based on responses to 5 items. 
+
+Survey_G_Perform =Q1.2+Q1.5+Q1.6+Q1.8+Q1.10 ",Part 1: My Goals for Writing,N/A,5 to 25
+Survey_G_Avoid,"""Avoidance"" refers to a subscale of writing goals (on a scale of 1 to 5) concerned with avoiding unfavorable judgments by others.  Scores are based on responses to 3 items.
+
+Survey_G_Avoid = Q1.3+Q1.6+Q1.9",Part 1: My Goals for Writing,N/A,3 to 15
+Survey_Affection,"""Affect"" refers to students' feelings about writing on a scale of 1 to 5. Scores are based on responses to 5 items. Two items (Q4.2 and Q4.5) are reversely coded. 
+
+Survey_Affection =Q4.1+rQ4.2+Q4.3+Q4.4+rQ4.5",Part 4: How I Feel About Writing,N/A,5 to 25

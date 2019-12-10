@@ -1,0 +1,4 @@
+A Spyrometry study by 96 Principles of Biology Students at A Local University: An Investigation of the Correlation between Vital Capacity and Other Parameters
+
+Abstract
+The objective of this study was to determine the correlation between VC and other parameters. This study was based on spirometry data collected from 96 Principles of Biology students  (aged 17 to 34 years old; 71 females and 25 males) at a local university. The parameters that students measured included VC (L), height (cm), chest circumference (cm), and heartbeats per minute (bpm). A significant correlation was found between VC and height, as well as between VC and chest circumference. There was no correlation found between VC and heartbeats per minute. In conclusion, while VC was significantly correlated to some variables, it was not with others.

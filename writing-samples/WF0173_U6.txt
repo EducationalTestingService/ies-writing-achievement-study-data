@@ -1,0 +1,6 @@
+
+
+Spirometry Study of Principles of Biology Students: An Investigation of Correlation between Vital Capacity and Other Parameters.
+
+Abstract
+A study was done by ninety-six students in a Principles of Biology class at University to investigate possible correlations between vital capacity and parameters such as height, chest circumference, heart rate, gender, age, and lifestyle choices. Vital capacity was measured using a Phipps and Bird 9 Liter Wet Spirometer; height was measured using a meter stick; chest circumference was measured with a tape measure; resting heart rate was determined by using three fingers on a radial artery. Both height and chest circumference showed positive correlations with vital capacity, (r = 0.76) and (r = 0.449) respectively. Resting heart rate showed no correlation (r = -0.124) with vital capacity. Additionally, males showed a higher vital capacity range than females. The lifestyle choice of smoking was not prevalent enough in this study to see how it compared to vital capacity. Athletes and non-athletes, however, showed vital capacity ranges that were nearly identical. In conclusion, while vital capacity correlated with some parameters it did not with others.

@@ -1,0 +1,49 @@
+Discussion
+
+In this study, there was a significant positive correlation between height and VC. As height increased, there was a corresponding significant increase in VC. The original hypothesis, which stated that VC correlated with other parameters, is supported by this data. A possible underlying reason for this relationship might be that as height increases, so does the size of the thoracic cavity and lungs, creating a greater lung capacity and space for increased air volumes. Although this is a plausible explanation to the results, it is important to note that correlation does not necessarily mean causation. When compared with other published findings, these results are similar. For example, in a study on 76 asymptomatic subjects between ages 18 and 71 that measures the difference between nasal airway resistance, VC, and height, it was found that there is “a good correlation between VC and height” (Morris 1993). Another study states that “It is well known that height is a strong confounding factor for lung function levels” (Zeng 2017). This study is different from the spirometry study in that it features a sample of 206 preschool-aged children and compares the association between birth weight, chest circumference, and lung function of the subjects. 
+
+There was also a significant positive correlation between chest circumference (cm) and VC. As chest circumference increased, there was a corresponding significant increase in VC. The original hypothesis stated that VC correlated with this parameter and is supported by this data. A plausible explanation for the results is that an individual with a larger chest circumference possesses a larger thoracic cavity and lungs, creating a greater lung capacity and possible space for air volumes. The previously mentioned study also “found that chest circumference was still positively correlated with [forced vital capacity] FVC ” (Zeng 2017). This study focuses on multiple different physical traits (including birth weight) to determine the relationship with VC. It is important to note that FVC, rather than VC, is measured in the mentioned study.
+
+Additionally, there was no signification relationship or correlation between VC and heartbeats per minute. This result does not support the original hypothesis.  A plausible explanation for this might be that an individual with a lower resting heart rate might be presumed to be more fit and/or healthy than one with a higher resting heart rate (barring any heart conditions). Therefore, this individual might have stronger/healthier lungs, which can produce a greater VC. A study noted that “forced vital capacity is considered a measure of pulmonary capacity, [and] our finding that autonomic control presented significant positive correlations with spirometric indices suggests that there is synchronicity between the activities of the lung and those of the heart” (Bianchim 2016). In this particular study on sample of 119 asymptomatic adults aged 20-80 years, FVC and forced expiratory volume (FEV) were measured. The study found only a moderate correlation between heart rate and the spirometric indices analyzed, and provided a good indication of cardiovascular risk factors. Although the study focused mainly heart rate variability, it included values for resting heart rate, which relate to the spirometry study.
+
+It is important to note that relationships can also be found between VC and other parameters such as gender, athleticism, and lifestyle choices (e.g. smoking). Although this study did not analyze these relationships through inferential statistics, other published findings can provide insight into these relationships. It would have been difficult to analyze some of these parameters in this particular study because the population and the variability within it was limited. Sometimes there were not enough data points to highlight a trend in data. For example, the spirometry study only included two smokers in a sample of 96. Therefore, the impact of smoking on VC could not be objectively assessed. Even with this limited data, one can hypothesize about the relationships between these parameters (i.e. athletes have a higher VC than non-athletes; smokers have a lower VC than non-smokers). This relationship between smoking and VC has been studied frequently in previous studies. For example, one study found that “the positive relationship of pulmonary function to mortality in smokers was strong” (Curb 1990). This study shows the relationship between smoking, pulmonary function, and mortality in a sample of 5924 Japanese-American men aged 18 and up. Many published journals go on further to analyze these relationships. For example, in the Scientific World Journal, Myrianthefs (2013) “found that athletes have significantly higher spirometric values to what was predicted in nonathletes.”  This study was completed on a sample of 269 individuals (aged 20-65 years), and studies the difference in spirometric values between athletes and non-athletes. Lastly, when comparing gender and VC, Janzen (2017) found that a higher FVC was more pronounced in men than women in a study with a sample of 762 men and 847 women above the age of 18. Clearly, there is a multitude of information to prove and disprove what this experiment could not due to restrictions. Many published journals provide quality information on the relationships between these variables.
+
+In conclusion, VC is a measure that is easily affected by other parameters, especially those having to do with one’s physical traits. VC has relationships with several parameters and is an important measure for predicting relationships and health. It also relates to some variables that we did not study in depth like athleticism, gender, and smoking. There are many ways to improve this experiment. One suggestion would be to have a larger, more varied population/sample. The sample was less than 100 people, and only included Principles of Biology students at a local university. It did show much variation with age, smoking, etc. It would be helpful/easier to find relationships between some of these parameters with a much larger and more variable population. Another improvement that could be made to this experiment would be to identify if any of the individuals tested had any pre-existing medical conditions that might affect their measurements. For example, if an individual had a heart condition that significantly changed their heart rate, it might throw off the data. Or, if an individual had a respiratory disorder, this might affect their VC values. Lastly, it might be effective to examine both VC and FVC. The experiment only measured vital capacity at rest; however, measuring FVC might produce some interesting and noteworthy data.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Bianchim, M. S., Sperandio, E. F., Martinhão, G. S., Matheus, A. C., Lauria, V. T., da Silva, R. P., … Dourado, V. Z. (2016). Correlation between heart rate variability and pulmonary function adjusted by confounding factors in healthy adults. Brazilian Journal of Medical and Biological Research, 49(3), e4435. 
+
+Curb, J.David & Bloom Marcus, Ellen & M. Reed, Dwayne & MacLean, Charles & Yano, Katsuhiko. (1990). Smoking, pulmonary function, and mortality. Annals of epidemiology. 1. 25-32. 10.1016/1047-2797(90)90016-L.
+
+Janzen, B., Karunanayake, C., Rennie, D., Pickett, W., Lawson, J., Kirychuk, S., & ... Saskatchewan Rural Hlth Study, T. (n.d). Gender Differences in the Association of Individual and Contextual Exposures with Lung Function in a Rural Canadian Population. Lung, 195(1), 43-52.
+
+Morris, S & Jawad, M.S.M. & Eccles, Ronald. (1993). Relationship between vital capacity and nasal airway resistance in asymptomatic volunteers. Rhinology. 30. 259-64.
+
+
+Myrianthefs, P., & Baltopoulos, G. (2013). A Higher Tidal Volume May Be Used for Athletes according to Measured FVC. Scientific World Journal, Article.
+
+Zeng, Xiang & Xu, Xijin & Zhang, Yuling & Li, Weiqiu & Huo, Xia. (2017). Chest circumference and birth weight are good predictors of lung function in preschool children from an e-waste recycling area. Environmental Science and Pollution Research. . 10.1007/s11356-017-9885-5.

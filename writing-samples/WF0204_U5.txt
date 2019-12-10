@@ -1,0 +1,33 @@
+To: Casey Smith
+From: Sam Doe
+Date: October 22, 2017
+Subject: Job Shadowing Reflection
+
+Purpose:
+Interviewing Riley Johnson, a business analyst for Anytown Regional Medical Center, was an enlightening and helpful experience. In this memo, I will elaborate on the insights that I have learned about my prospective career path, explain how the information gathered has reinforced my decision making for the future, and describe how the interview has defined my next steps to achieving my goals. 
+
+Career Insights:
+Perhaps the most helpful part of this process was discovering the responsibilities and culture associated the position which I plan on pursuing. The following contains a list of the most essential information associated with the actual job context of being a business analyst:
+
+1)	The daily duties of a business analyst revolve around the management of information systems. Routine job expectations include developing software, managing system administration, optimizing work flow and processes, and managing large scale IT and business intelligence projects.
+
+2)	Flexibility and adaptability are two key skills necessary for success in this field. There is an extensive networking requirement and most work requires coordinating with system users rather than operating behind a desk. Each interaction mandates a unique response. 
+
+3)	Patience and communication proficiency are essential for task completion as database changes affect multiple departments and potentially hundreds, if not thousands, of employees. 
+
+4)	A work week can be expected to be 40 hours. There are few weekend or holiday hours, but during a period of restructuring or project completion additional commitments can be required. 
+
+5)	Basic technical and hardware certifications are helpful in searching for a business analyst position, and also practical in the work place. 
+
+Future Decision Making:
+After the interview process, one thing was made increasingly clear to me: that this career path is a great fit for my skills set. As I am majoring in business analytics, I am already on the right track. This interview has affirmed the legitimacy of my goal choices in the following ways: 
+1)	I enjoy optimizing processes, managing data, and figuring out solutions to complex problems. After speaking with Riley, I have learned that these interests constitute the core of virtually all business analytics.
+
+2)	I am seeking a career with a high degree of autonomy that requires adaptive, creative approaches to completing daily tasks. Business analysis’s combination of hard logic with interpersonal networking skills appeals to me as an environment that regularly introduces new challenges into the work place. 
+
+3)	In the future, I am seeking a structured schedule with dependable hours and compensation. At least in the case of Anytown Regional, a career in business analytics provides stable and predictable working conditions. 
+
+Summary and the Next Steps:
+Overall, the informational interview process was very rewarding, mostly by gaining insights into the interworking’s of the field and knowledge on how to prepare for entry. Based on my current academic projection, there is no substantial, radical change that I need to make, but there are some additions to my resume that will be helpful in assuring success in my endeavors. 
+
+Riley mentioned having knowledge and certifications in technology and hardware are beneficial to pursuing a business analytics position. In the imminent future, I will begin the process of certification in A+ and network+. In addition, I will speak with MIS department chair Dr. Miller about applying to the university’s master’s program in business analytics to further my competitive advantage. With these steps, I feel confident that I will be adequately prepared to make a strong impact throughout my journey in information management.

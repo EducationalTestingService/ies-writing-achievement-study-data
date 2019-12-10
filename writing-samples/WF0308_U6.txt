@@ -1,0 +1,9 @@
+Coursework: Principles of Biology – Writing a Scientific Paper
+Lab. Section: L55
+Due Date: November 8, 2017
+
+
+Spirometry Study: University’s Principles of Biology Students Vital Capacity Compared to Height, Chest Circumference, Resting Heart Beats, and Other Parameters
+
+Abstract
+The objective of this scientific study was to find correlations, if any, between Vital Capacity (VC) in liters (L)and height (cm), chest circumference (cm), resting heart beats per minute, and other parameters. 96 Principles of Biology students at University, individually conducted three trials to find VC standing and sitting respectively. The students also collected their height (cm), chest circumference (cm), resting heart beats per minute, as well as, age genders, and whether or not they were smokers, and athletes, respectively. It was found that VC standing and height had a positive correlation (r = 0.715, n= 96, p= 0.05), VC standing and heart beats per minute has no correlation (r = -0.124, n = 96, p = 0.05)., and VC standing and chest circumference had a positive correlation (r = 0.449, n = 96, p = 0.05). The only other parameter that had a relationship with vital capacity was gender. With height, chest circumference, and gender all being correlated to VC, the cause for this could be that these parameters cause an overall large chest cavity; therefore, this would cause for an individual to have larger lungs. In all, more studies should be done to see what other parameters have an impact on VC because the sample size in this particular study was not sufficient to study all parameters.

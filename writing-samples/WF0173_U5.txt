@@ -1,0 +1,201 @@
+
+
+
+Abstract 
+A spirometry study was done by ninety-six students (71 females and 25 males) in a Principles of Biology class at  University to investigate possible correlations between VC (L) and parameters such as height (cm), chest circumference (cm), and heart beats per minute (bpm). Both height and chest circumference showed significant positive correlations with vital capacity, (r = 0.76) and (r = 0.449) respectively. Resting heart rate showed no correlation 	
+(r = -0.124) with VC. Additionally, males showed a higher VC range than females. In conclusion, while VC correlated with some parameters it did not with others.  
+ 
+
+
+
+Introduction 
+In spirometry studies, many researchers have discussed how vital capacity (VC) may be influenced by height, gender, age, health status, and lifestyle choices. As described by Seeley et al., (2008) spirometry is the process of measuring volumes of air that move into and out of the respiratory system, and VC is the maximum volume of air exhaled from the respiratory tract after maximum inhalation. In 1846, John Hutchinson, who invented the first wet spirometer, indicated that measuring one's VC can help with the prediction of premature mortality (Petty, 2002). Hutchinson also measured the VC of 2,130 individuals and showed a relationship between VC and pulmonary diseases (Hutchinson, 1846). Chronic Obstructive Pulmonary Disease (COPD) and Duchenne Muscular Dystrophy (DMD) affect respiratory functions and diminish a person’s VC. Spirometry can be used to predict the progression of COPD and DMD based on a person’s VC after a baseline has been established (Phillips et al., 2001, Petty, 2002). In longitudinal studies it has also been reported that diminishing VC is more pronounced in smokers compared to nonsmokers (Bande, et al., 1978). Besides disease and smoking, VC has also been recorded to be affected inversely by age (Petty, 2002). VC has also been reported to be affected by whether the subject was an athlete or not. Athletes on average reported higher VC than nonathletes (Stuart and Collings, 1959). 
+ 
+The purpose of this study was to investigate if there is a relationship between VC and other parameters such as height, age, radial resting pulse rate, gender, age, and lifestyle choices. The objective of this study was to collect spirometry data from college students, which would be scrutinized for factors affecting VC. The hypothesis tested was that VC correlated with the other parameters including height, age, radial resting pulse rate, gender, age, and lifestyle choices. 
+
+Materials and Methods 
+Vital capacity (VC), measured in liters (L), was recorded in a group of University Principles of Biology. Students included in the study were from laboratory sections L54, L55, L56, and 03C. The entire sample size was ninety-six students, twenty-five males and seventy-one females. The students ages ranged between seventeen and thirty-four. Each subject measured his/her VC using a Phipps and Bird 9-Liter Wet Spirometer. The subjects recorded their VC in both a standing and a sitting supine position. After doing three replicates in each position, the average for each respective position was calculated.  
+ 
+Other factors that can affect VC were also measured and recorded, such as height (cm), chest circumference (cm), and resting pulse rate (bpm). Height was recorded using a meter stick, and chest circumference was recorded using a tape measure. Each subject, after resting for ten minutes, measured his/her resting pulse by placing the index and middle fingers of one arm on the radial artery of the other arm. Subjects recorded the number of pulses felt for fifteen seconds, timed on a MyChron stopwatch, in a total of three sets. The average pulses for the three sets was then calculated and multiplied by four to get the average resting heart beat per minute. Subjects also recorded their gender, age, chest circumference and whether they were smokers and athletes, respectively. Correlation analysis was used to analyze the data.  
+ 
+
+Results 
+Spirometry data for female (n = 71, ages 17 to 24) Principles of Biology students were variable (Table 1). Their average VC (standing) ranged from 1.8 L to 3.8 L, with an overall average of 2.5 L, while their VC (sitting) ranged from 1.8 L to 4.2 L, averaging 2.4 L (Table 1). Females ranged in height from 150 cm to 183 cm, and their chest circumference ranged from a low of 67 cm to a high of 127 cm, averaging 71.7 cm (Table 1). The females' average heartbeats per minute (bpm) ranged from 50.4 to 100 bpm, with an overall average of 76 bpm (Table 1). There were only 2 female smokers; their average VC was 2.9 L while standing, and 2.7 L while sitting. For female nonsmokers (n = 69), average VC (standing) ranged from 1.8 L to 3.8 L, and from 1.8 L to 4.2 L (VC sitting) (Table 1). Their overall VC averages were 3.2 L (standing) and 2.8 L (sitting). For female athletes (n = 24), the average VC ranged from 2.0 L to 3.9 L (standing), and 1.8 L to 4.2 L (sitting). Overall averages of female athletes' VCs were 2.8 L (standing) and 2.7 L (sitting) (Table 1). For female nonathletes (n = 47), average VC ranged from 1.8 L to 3.8 L (standing), and 1.8 L to 3.8 L (sitting). Their overall VC averages were 2.8 L (standing) and 2.8 L (sitting) (Table 1). 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Table 1. Spirometry data for Fall 2017 Principles of Biology female students. 
+
+Sex 	(F) 	Age 	 (yrs) 	Ht.  	(cm) 	VCST 	 (L) 	VCSI  	(L) 	CH CIR 	(cm) 	Hrt.Bts/Min 	Smoker 	Athlete 
+F 	18 	160 	2.4 	2.6 	77.8 	92 	N 	N 
+F 	18 	162 	3.1 	3.1 	88 	77.2 	N 	N 
+F 	18 	168 	2.3 	2.4 	98 	82.4 	Y 	N 
+F 	19 	168 	2 	1.8 	82 	81.3 	N 	Y 
+F 	18 	170 	3.7 	3.8 	80.5 	66.7 	N 	N 
+F 	18 	159.5 	3 	2.9 	78.6 	57.3 	N 	Y 
+F 	18 	167 	3.4 	3.4 	96.5 	65.2 	N 	N 
+F 	17 	161.2 	2.5 	2.3 	76.2 	80 	N 	Y 
+F 	19 	163 	2.8 	3 	87.5 	85.2 	N 	Y 
+F 	18 	165.5 	2.9 	3 	72.5 	64 	N 	N 
+F 	18 	168 	3 	2.8 	104 	68 	N 	N 
+F 	18 	156 	2.2 	2.3 	88 	85.3 	N 	N 
+F 	18 	166 	3.1 	3.1 	99 	68 	N 	N 
+F 	18 	164 	1.8 	2.1 	84 	66.7 	N 	N 
+F 	18 	164 	2.3 	2.4 	100 	74.4 	N 	N 
+F 	21 	162.1 	2.8 	3.4 	84.1 	72 	N 	N 
+F 	18 	167 	3.2 	3 	82.5 	85.2 	N 	N 
+F 	18 	151.5 	2.7 	2.8 	80.1 	57.3 	N 	Y 
+F 	19 	168 	2.8 	2.7 	81.5 	70.4 	N 	N 
+F 	18 	167 	3.2 	2.9 	91.5 	74.7 	N 	Y 
+F 	18 	166.9 	3 	2.9 	91.5 	68 	N 	N 
+F 	18 	169.7 	3 	3.2 	98 	68 	N 	N 
+F 	18 	150 	2.4 	2.6 	78.5 	80 	N 	Y 
+F 	18 	162 	2.8 	2.5 	82 	66.7 	N 	N 
+F 	18 	169 	3.5 	3 	127 	89.3 	Y 	Y 
+F 	18 	180.5 	3.4 	3.7 	92 	66.7 	N 	N 
+F 	18 	183 	2.6 	2.4 	89 	50.4 	N 	N 
+F 	18 	160 	2.6 	2.9 	92.5 	73.2 	N 	N 
+F 	18 	159 	2.1 	2.2 	94 	70.8 	N 	Y 
+F 	18 	160 	2.5 	2.3 	91.1 	78.4 	N 	N 
+F 	18 	163 	2.1 	1.8 	103 	56 	N 	N 
+F 	18 	168 	2.5 	2.8 	85.4 	54.7 	N 	Y 
+F 	17 	160.8 	2.4 	2.2 	84.6 	62.8 	N 	N 
+F 	18 	164 	2 	1.9 	86 	80 	N 	Y 
+F 	18 	170.5 	2.3 	2.5 	73.5 	78 	N 	N 
+F 	18 	172.2 	2.7 	2.6 	91.7 	78.8 	N 	N 
+F 	18 	167.7 	2.4 	2.5 	84.7 	73.3 	N 	N 
+F 	18 	159.5 	2.7 	3 	85.7 	89.3 	N 	N 
+F 	18 	163 	2.2 	2.1 	105 	76 	N 	N 
+F 	20 	171 	3.8 	3.6 	78.1 	70.6 	N 	N 
+F 	19 	152 	2 	2 	83 	92 	N 	Y 
+F 	19 	172 	3.3 	3.6 	100 	75 	N 	N 
+F 	19 	168 	2.4 	2.5 	67 	81 	N 	Y 
+F 	24 	162.5 	2.1 	2 	85.2 	80 	N 	N 
+F 	19 	161 	2.8 	2.9 	84 	93 	N 	N 
+F 	20 	176 	3.9 	3.8 	88 	69.3 	N 	Y 
+F 	20 	157.5 	3 	2.9 	76.2 	68 	N 	N 
+F 	20 	168 	3 	3.2 	77.5 	89.2 	N 	N 
+F 	19 	162 	3.8 	3.6 	81 	73.2 	N 	N 
+F 	18 	164 	3.1 	3 	75 	90.8 	N 	N 
+F 	19 	165 	3.2 	3.1 	74 	77.3 	N 	N 
+F 	19 	166 	2.6 	2.8 	87 	85.2 	N 	N 
+F 	18 	162.1 	2.9 	2.8 	90.1 	80 	N 	N 
+F 	18 	170.5 	2.4 	2.3 	76.1 	66.8 	N 	N 
+F 	18 	167.4 	3.5 	3.5 	76.6 	81.2 	N 	N 
+F 	18 	163.4 	3.4 	3.2 	89 	82 	N 	Y 
+F 	18 	163.2 	2.6 	2.8 	78.8 	81.2 	N 	Y 
+F 	18 	165.5 	3 	3 	84.8 	77.3 	N 	Y 
+F 	18 	160 	2.5 	3 	84 	100 	N 	Y 
+F 	18 	163.9 	3.2 	3.2 	85.4 	86.7 	N 	N 
+F 	19 	165.1 	2.4 	2.3 	103.7 	72 	N 	Y 
+F 	18 	162.8 	2.2 	2.2 	87.6 	84 	N 	Y 
+F 	18 	170.2 	3.2 	3.3 	78.9 	85.3 	N 	N 
+F 	18 	170 	3.4 	3.5 	92.7 	74.4 	N 	N 
+F 	18 	168 	3.9 	4.2 	118 	81.3 	N 	Y 
+F 	18 	169.1 	2.6 	2.7 	104.1 	77.3 	N 	Y 
+F 	18 	171.8 	3.4 	3.4 	111.7 	80 	N 	N 
+F 	18 	163 	3.1 	3.3 	82.5 	96 	N 	Y 
+F 	18 	167.4 	3.2 	3.1 	86.4 	94.7 	N 	N 
+F 	18 	157.8 	2.9 	3.1 	84.7 	76 	N 	Y 
+F 	18 	157.3 	2.5 	2.7 	71.7 	76 	N 	N 
+n = 71 	Ave. age = 18.4 	Ave. Ht. =  164.9 	Ave. VCST = 2.8 	Ave. VCSI = 2.8 	Ave. CH CIR = 87.5 	Ave. RPR = 76.5 	Smokers = 2 	 Athletes = 24 
+								
+
+Ht. = height (cm); VC ST (L) = Vital Capacity Standing; VC SI (L) = Vital Capacity Standing: Chst Cir (cm) = Chest Circumference; Hrt. Bts/Min. = Heart Beats/Minute 
+
+Table 2 shows spirometry data for Fall 2017 Principles of Biology male students. Spirometry data for male (n = 25, ages 18 to 34) Principles of Biology students were also variable (Table 2). 
+ 
+Table 2. Spirometry data for Fall 2017 Principles of Biology male students. 
+
+Sex  	(M) 	Age  	(yrs) 	Ht.  	(cm) 	VCST  	(L) 	VCSI  	(L) 	CH CIR 	(cm) 	Hrt.Bts/Min 	Smoker 	Athlete 
+M 	18 	175.5 	4.4 	4.3 	87.3 	82.7 	N 	Y 
+M 	18 	170 	3.9 	4.1 	89 	68 	N 	N 
+M 	18 	181 	4.2 	4.3 	90.5 	82.7 	N 	N 
+M 	18 	187 	5.1 	5.2 	106 	86.4 	N 	Y 
+M 	18 	188 	5.2 	5.1 	112 	74.4 	N 	N 
+M 	20 	173 	2.8 	2.8 	88 	89.3 	N 	Y 
+M 	19 	170 	4.1 	3.8 	99 	68 	N 	N 
+M 	18 	183 	3.5 	3.4 	111.5 	72 	N 	Y 
+M 	18 	181 	3.9 	4 	106 	70.7 	N 	N 
+M 	34 	170.2 	4.4 	4.2 	94 	56 	N 	N 
+M 	21 	180.5 	4.3 	4.3 	94 	66.4 	N 	N 
+M 	19 	185 	5 	5 	97 	69 	N 	N 
+M 	19 	175.5 	5 	5 	94 	76 	N 	N 
+M 	21 	170 	4.4 	4.3 	96.5 	56 	N 	N 
+M 	19 	173 	4.8 	5 	109 	90 	N 	Y 
+M 	21 	179 	4.9 	5 	97.5 	80 	N 	Y 
+M 	19 	183 	5 	5.1 	104 	64 	N 	Y 
+M 	19 	175.5 	5 	5.1 	91 	77.3 	N 	Y 
+M 	19 	168 	4.2 	4.4 	99 	72 	N 	Y 
+M 	19 	184 	4.7 	4.8 	109.5 	60 	N 	N 
+M 	19 	176 	4.3 	4.7 	83 	64 	N 	N 
+M 	18 	178 	2.7 	3 	88.9 	76 	N 	Y 
+M 	21 	181 	4.2 	4.4 	110 	93.3 	N 	Y 
+M 	18 	188.4 	4.8 	4.8 	105 	73.2 	N 	Y 
+M 	19 	177.4 	5.4 	5.2 	104 	70.4 	N 	Y 
+n = 25 	Ave. age = 19.6 	Ave. Ht. = 178.2 	Ave.         VCST = 4.4 	Ave. VCSI = 4.5 	Ave. CH Cir = 98.6 	Ave. RPR = 73.5 	 Smokers = 0 	Athletes = 13 
+
+
+Ht. = height (cm); VC ST (L) = Vital Capacity Standing; VC SI (L) = Vital Capacity Standing: Chst Cir (cm) = Chest Circumference; Hrt. Bts/Min. = Heart Beats/Minute 
+ 
+In males (n = 25, ages 18 to 34 years old), VC (standing) ranged from 2.7 L to 5.4 L, with an overall average of 4.4 L, while their sitting VC ranged from 2.8 L to 5.2 L, with an overall average of 4.5 L (Table 2). They varied in height from 168 cm to 188.4 cm, showing an average height of 178.2 cm. Chest circumference (cm) in males ranged from 83 to 112 cm, averaging 98.6 cm, while their average heartbeats per minute ranged from 56 to 93.3 bpm, showing an overall average of 78.35 bpm (Table 2). There were no male smokers. The nonsmoking males (n = 5), had an average VC (standing) that ranged from 2.7 L to 5.4 L, and from 2.8 L to 5.2 L (VC sitting) (Table 2). Their overall average VCs were 4.4 L (standing) and 4.5 L (sitting). In male athletes (n = 13), the average standing and sitting VCs ranged from 2.7 L to 5.4 L, and 2.8 L to 5.2 L, respectively (Table 2). The overall averages of VC for male nonathletes were 4.5 L (standing) and 4.5 L (sitting). 
+
+
+
+Figure 1 shows a scatter plot of height (cm) against VC standing (L) for all 96 subjects. Their average VCs ranged from 1.8 L to 5.4 L and their heights from 150 cm to 188.4 cm. The scatter plot suggested a positive correlation, that is, as standing VC (L) increased, height (cm) also increased. Pearson’s Correlation coefficient analysis indicated that there was a significant relationship between standing VC (L) and height (cm) because the calculated value (0.715) exceeded the tabulated value (0.201) at p= 0.05 (r = 0.715, n = 96, p = 0.05). The Null hypothesis, which stated that there was no significant relationship between height and VC (standing), was therefore rejected. 
+
+
+
+Figure 2 shows a scatter plot comparing chest circumference (cm) against VC standing (L) for all 96 subjects. Their average VCs ranged from 1.8 to 5.4 L and their chest circumferences ranged from 67 cm to 127 cm. The scatter plot suggested a positive correlation, that is, as standing VC (L) increased, chest circumference (cm) also increased. Pearson’s Correlation coefficient analysis indicated that there was a significant relationship between standing VC (L) and chest circumference (cm) because the calculated value (0.449) exceeded the tabulated value (0.201) at p= 0.05 (r = 0.499, n =96, p = 0.05). The Null hypothesis, which stated that there was no significant relationship between chest circumference and VC (standing), was therefore rejected. 
+
+
+Finally, figure 3 shows a scatter plot of heart beats per minute (bpm) against VC standing (L) for all 96 subjects. Their average VCs ranged from 1.8 L to 5.4 L and their heart beats per minute (bpm) ranged from 50.4 bpm to 100.0 bpm. The scatter plot suggested a negative correlation, that is, as standing VC (L) increased, heart beats per minute (bpm) decreased. Pearson’s Correlation coefficient analysis indicated that there was no significant relationship between standing VC (L) and heart beats per minute (bpm) because the calculated value (-0.124) did not exceed the tabulated value (0.201) at p = 0.05 (r = -0.124, n = 96, p = 0.05). The Null hypothesis, which stated that there was no significant relationship between heart beats per minute and VC (standing), was therefore failed to be rejected. 
+ 
+Discussion  
+The results of VC (standing) and height indicated a strong positive correlation (r = 0.715) that exceeded the tabulated value (0.201) at p= 0.05. This supported the hypothesis that VC correlated with the parameter of height. It is likely that lung size is increased with height. If the size of the lungs is increased then it is likely the maximum volume of air is increased, and consequently VC. Height and VC has been studied before in other studies. In 1992, a study looked for a correlation between nasal air resistance (NAR), height, and VC. In their study of 76 volunteers between the ages of 18 and 71, with an average age of 28, no correlation was found between NAR and VC (Morris et al., 1992). However, like our study they found a strong positive correlation (r = 0.76) between VC and height. Our study did not look at NAR, but it is likely that VC had no correlation to NAR since it only affects the flow of air and not total volume of the lungs.  
+  
+The results for VC (standing) and chest circumference suggested a positive correlation as well. However, the calculated value (r = 0.449) did not indicate as strong of a correlation as the VC and height. This result also supported the hypothesis that VC correlated with the parameter of chest circumference. A larger chest circumference would allow for more expansion of the lungs. This would allow for a much larger volume of air to be inhaled and exhaled for VC in comparison to a smaller chest circumference. In a study from 1935, it was found that there was a positive correlation between chest volume and VC, but not between chest circumference and VC. They found that chests with a longer height, but smaller circumference had a higher VC in comparison to subjects that had shorter chest heights and larger circumferences (Hurtado, et al., 1935). The subjects with wider chests had a smaller chest volume on average in comparison to the subjects with smaller circumferences. This suggests that chest volume had more of an impact on VC than actual circumference on its own. We did not look at chest volume, but it is still plausible that a wider chest could still have more volume than a smaller chest circumference.  
+
+For heart beats per minute (bpm) and VC (standing) there was no significant correlation found between the two. The calculated value (r = -0.124) did not exceed the tabulated value (0.201) and could not be accepted as having correlation to a 95% certainty. BPM did not directly affect how much volume the lungs can hold, so it is reasonable that they would have no correlation. Thus, this parameter did not support our hypothesis. It had been found that respiration affects bpm, instead of bpm affecting VC. Bernardi et al., (2001) found that by manipulating respiration rate one could affect bpm. They also studied the connection between respiration and conditions like chronic heart failure.
+ 
+Lifestyle and personal choices were also analyzed. The lifestyle choice of smoking was not prevalent enough in our study to do a proper analysis on the differences between smokers and nonsmokers. However, in a longitudinal study it was observed that diminishing VC was more pronounced in smokers in comparison to nonsmokers (Bande et al., 1978). Smoking has been shown to damage and impair respiratory functions, so the diminished VC is to be expected for long term smokers. For females, there was no significant difference between athletes' and nonathletes' average VC for standing or sitting positions. The same result for athletes' and nonathletes' average VC was obtained for males as well. This was surprising because it is typically accepted that athletes have a higher VC due to more regular physical training. This contrasts with the results of another study that found the mean VC of athletes was significantly higher than nonathletes (Stuart and Collings, 1959). The difference may lie in the definitions of athletes. Our athletes were anyone who is trained in exercises or contests involving physical skill, stamina, and/or strength and participate regularly. Our definition leaves a lot of room for interpretation. There is also a wide variety of activities that could qualify someone to be an athlete, but not be as intense on the respiratory system and increase VC. Between males and females, males had a higher average VC for both sitting and standing. This is not surprising since males on average were both taller and had a larger chest circumference, both having a positive correlation to VC.   
+ 
+In conclusion, there is evidence that height and chest circumference affect VC. However, bpm does not seem to affect VC. To see how chest volume in comparison to chest circumference for VC would be worth investigating, since chest circumference does not consider the length of the torso, while volume would take both length and circumference into consideration. For bpm, it could be worth looking to see how a short amount of physical activity that would raise bpm would affect VC, and compare it to a subject's resting bpm and VC. This would allow us to see how an elevated bpm would affect VC. For future studies, a larger sample size is most likely needed to accurately access the difference between smokers' and nonsmokers' VC. Also, a more concise and specific definition of an athlete, such as an exact number of times of physical activity a week or a duration, may be needed to get a better contrast between athletes and nonathletes. If another study took these into account, they may be able to more accurately find correlations between VC and these different physical parameters. 
+
+
+
+
+
+
+Acknowledgements
+I would like to thank the Department of Biology at University for making this study possible. I would also like to thank Dr. Casey Smith for setting up this experiment and for compiling all the data, which we had recorded and used from this study. And a final thanks to the ninety-six Principles of Biology students who participated in the study, whom provided all the data used in the study.
+
+Literature Cited
+Bande, J., Clément, J., and Van De Woestijne, K.P.  1978.  The Influence of Smoking Habits and Body Weight on Vital Capacity and FEV1 in Male Air Force Personnel: A Longitudinal and Cross-Sectional Analysis.  American Journal of Respiratory and Critical Care Medicine 122(5): 781-790.
+
+Bernardi, L., Porta, C., Gabutti, A., Spicuzza, L., Sleight, P.  2001.  Modulatory Effects of Respiration.  Autonomic Neuroscience 90(1-2): 47-56.
+
+Hurtado, A., Kaltreider, N.L., Fray, W.W., Brooks, W.D.W., and McCann, W.S.  1935.  Studies of Total Pulmonary Capacity and Its Subdivisions. VIII. Observations on Cases of Pulmonary Fibrosis.  Journal of Clinical Investigation 14(1): 81–93.
+
+Hutchinson, J.  1846.  On The Capacity of The Lungs, and on The Respiratory Functions, with A View of Establishing A Precise and Easy Method of Detecting Disease by The Spirometer.  Medico-Chirurgical Transactions 29: 137-252.  
+
+Morris, S., Jawad, M.S., Eccles, R.  1992.  Relationships between Vital Capacity, Height and Nasal Airway Resistance in Asymptomatic Volunteers.  Rhinology 30(4): 259-264.
+
+Petty, T.L.  2002.  John Hutchinson’s Mysterious Machine Revisited.  Chest 121(5): 219S-223S.
+
+Phillips, M.F., Quinlivan, R.C.M., Edwards, R.H.T., Calverley, P.M. A.  2001.  Changes in Spirometry over Time as A Prognostic Marker in Patients with Duchenne Muscular Dystrophy.  American Journal of Respiratory and Critical Care Medicine 164(12): 2191-2194.
+
+Stuart, D.G., Collings, W.D.  1959.  Comparison of Vital Capacity and Maximum Breathing Capacity of Athletes and Nonathletes.  Journal of Applied Physiology 14(4): 507-509.
