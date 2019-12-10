@@ -47,6 +47,8 @@ The following additional files can be found under [`docs`](docs).
 
 # Related Publications & Presentations
 
+- Attali, Y., & Burstein, J. (2006). [Automated Essay Scoring with e-rater® V. 2](https://eric.ed.gov/?id=EJ843852). The Journal of Technology, Learning and Assessment, 4(3).
+
 - Burstein, J., McCaffrey, D., Beigman Klebanov, B., Ling, G. & Holtzman, S. (2019). [Exploring Writing Analytics and Postsecondary Success Indicators](https://eric.ed.gov/?q=%22%22&ff1=subWriting+Research&ff2=eduPostsecondary+Education&id=ED598690). In *Companion Proceedings 9^th International Conference on Learning Analytics & Knowledge (LAK19), Tempe, AZ.*
 
 - Burstein, J., Invited Speaker, [Writing Analytics: Automated Writing Evaluation Feedback to Support Learning](https://events.nyu.edu/#!view/event/event_id/223975), Learning Analytics Research Network (LEARN) Seminar Series, New York University, February 12, 2019.
