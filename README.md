@@ -41,7 +41,7 @@ The following additional files can be found under [`docs`](docs).
 
 - [`forms/*.pdf`](docs/forms) : Blank copies of the student consent forms issued to the student participants.
 
-- [`processes/deidentification_procedures.pdf`](docs/processes/deidentification_procedures.pdf) : This file contains a description of the steps that we followed in order to de-identify (remove any personally identifying information) from the writing samples and student metadata.
+- [`processes/deidentification_procedures.pdf`](docs/processes/deidentification_procedures.pdf) : This file contains a description of the steps that we followed in order to de-identify (remove any personally identifying information from) the writing samples and student metadata.
 
 - [`processes/genre_annotation.pdf`](docs/processes/genre_annotation.pdf) : This file contains a description of the genre annotation performed to classify writing assignments based on broad assignment types.
 
