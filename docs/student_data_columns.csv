@@ -1,4 +1,4 @@
-Column Heading,Description,Survey Section Heading,Survey Instructions,Scale
+Column Name,Description,Survey Section Heading,Survey Instructions,Scale
 Student_ID,Identifier assigned to study participants.,N/A,N/A,N/A
 Participating_Course_Grade,Student's course grade for the course in which writing assignments and surveys were submitted.,N/A,N/A,0.0-4.0
 FINAL_SAT_total,"Variable capturing participants' SAT Total scores, which combines Evidence-Based Reading and Writing and Math scores.  If students completed the test more than once, the SAT Total score reflects the highest scores. Old SAT scores were concorded to new SAT (beginning in March 2016) scores using tables 11 and 12 of the Concordance Tables: Old SAT Scores to New SAT Scores (https://collegereadiness.collegeboard.org/educators/higher-ed/scoring/concordance).  In cases where participants' ACT scores were submitted, we used the 2018 ACT Composite to SAT Total concordance table (Table A.2) to recode ACT Composite scores as SAT Total Scores (https://collegereadiness.collegeboard.org/pdf/guide-2018-act-sat-concordance.pdf).  

@@ -1,4 +1,4 @@
-Heading,Description,Response Options (if applicable),,,,
+Column Name,Description,Response Options (if applicable),,,,
 essay_id_num,Each writing assignment upload has a unique identifier.  The characters before the underdash matches the unique participant identifier and the characters after the underdash signals the upload number.,N/A,,,,
 Student_ID,Each participant has a unique identifier.,N/A,,,,
 course_discipline,Academic subject,"? Biology
