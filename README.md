@@ -71,4 +71,4 @@ If you have any questions about the data, please send us an [email](mailto:ETS_I
 
 The data provided in this repository was collected via research supported by the Educational Testing Service, and the Institute of Education Science, U.S. Department of Education, [Award Number R305A160115](https://ies.ed.gov/funding/grantsearch/details.asp?ID=1807).
 
-Thanks to Michael Flor, Binod *Gyawali*, Ben Leong, and Maxwell Schwartz for engineering support. Many thanks to our research assistants, Patrick Houghton, Hillary Molloy and Zydrune Mladineo, for managing a complex data collection.
+Thanks to Michael Flor, Binod Gyawali, Ben Leong, and Maxwell Schwartz for engineering support. Many thanks to our research assistants, Patrick Houghton, Hillary Molloy and Zydrune Mladineo, for managing a complex data collection.
