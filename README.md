@@ -57,7 +57,7 @@ The following additional files can be found under [`docs`](docs).
 
 - Burstein, J. Elliot, N., Beigman Klebanov, B., Madnani, N., Napolitano, D., Schwartz, M., Houghton, P. & Molloy, H. (2018).  [Writing Mentor: Writing Progress Using Self-Regulated Writing Support](https://journals.colostate.edu/index.php/analytics/article/view/213).  Journal of Writing Analytics. Vol. 2: 285-313.
 
-- MacArthur, C. A., Philippakos, Z. A., & Graham, S. (2016). A multi-component measure of writing motivation with basic college writers. *Learning Disability Quarterly, 39*, 31-43. DOI: 10.1177/0731948715583115.
+- MacArthur, C. A., Philippakos, Z. A., & Graham, S. (2016). [A Multi-component Measure of Writing Motivation with Basic College Writers](https://journals.sagepub.com/doi/abs/10.1177/0731948715583115?journalCode=ldqa). *Learning Disability Quarterly, 39*, 31-43. DOI: 10.1177/0731948715583115.
 
 # License
 
