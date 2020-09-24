@@ -1,160 +1,160 @@
-Column Name,Description,Response Options (if applicable),,,,
-essay_id_num,Each writing assignment upload has a unique identifier.  The characters before the underdash matches the unique participant identifier and the characters after the underdash signals the upload number.,N/A,,,,
-Student_ID,Each participant has a unique identifier.,N/A,,,,
+Column Name,Description,Response Options (if applicable)
+essay_id_num,Each writing assignment upload has a unique identifier.  The characters before the underdash matches the unique participant identifier and the characters after the underdash signals the upload number.,N/A
+Student_ID,Each participant has a unique identifier.,N/A
 course_discipline,Academic subject,"? Biology
 ? Business
 ? Computer Science
 ? Criminology 
 ? English
 ? History
-? Sociology",,,,
+? Sociology"
 Upload_survey_Q1,Maps to post-upload survey question 3: Did anyone help you to complete your assignment?,"a. A parent, brother, sister or other relative 
 b. A teacher 
 c. A tutor 
 d. Someone else 
-e. No one helped me ",,,,
+e. No one helped me "
 Upload_survey_Q2,Post-upload survey question 4: How much did the writing assignment help you to explore or to better understand the topic that you wrote about?,"a. A lot
 b. Somewhat
 c. A little
-d. Not at all",,,,
+d. Not at all"
 Upload_survey_Q3,"Post-upload survey question 5: I feel like I have a lot of experience writing papers like this one.
 ","0 = No
-1 = Yes",,,,
+1 = Yes"
 Upload_survey_Q4,"Post-upload survey question 2: If you used an electronic device (computer, tablet, or phone) to complete your assignment, did you use a spell- or grammar- checker while you were writing?","0 = No
-1 = Yes",,,,
+1 = Yes"
 Upload_survey_Q5,Post-upload survey question 1: Select the choice below that best describes how you completed your assignment?,"a. I handwrote the assignment first, then I typed it onto an electronic device (such as computer, tablet, or phone).
 b. I completed the assignment on a laptop or desktop computer.
 c. I completed the assignment on a tablet (such as an iPad) 
-d. I completed the assignment on a phone (such as an iPhone or Android)",,,,
+d. I completed the assignment on a phone (such as an iPhone or Android)"
 Ufeat_system_4_NonGen_Fr1000_words,"Normalized number of sentences containing an elaborated argument (for argumentative/persuasive essays), based on model 5 in Beigman Klebanov, B., Gyawali, B., & Song, Y. (2017). Detecting good arguments in a non-
-topic-specific way – an oxymoron? In Proceedings of the 54th annual meeting of the Association for Computational Linguistics, Companion Volume: Short Papers, ACL-17, Vancouver, Canada, July-August, pp. 244-249.",,,,,
+topic-specific way – an oxymoron? In Proceedings of the 54th annual meeting of the Association for Computational Linguistics, Companion Volume: Short Papers, ACL-17, Vancouver, Canada, July-August, pp. 244-249.",
 Ufeat_system_4_NonGen_prop_sent,"Proportion of sentences containing an elaborated argument (for argumentative/persuasive essays),  based on model 5 in Beigman Klebanov, B., Gyawali, B., & Song, Y. (2017). Detecting good arguments in a non-
-topic-specific way – an oxymoron? In Proceedings of the 54th annual meeting of the Association for Computational Linguistics, Companion Volume: Short Papers, ACL-17, Vancouver, Canada, July-August, pp. 244-249.",,,,,
+topic-specific way – an oxymoron? In Proceedings of the 54th annual meeting of the Association for Computational Linguistics, Companion Volume: Short Papers, ACL-17, Vancouver, Canada, July-August, pp. 244-249.",
 Ufeat_verb_metaphor_raw_count,"Number of metaphorically used verbs in the essay, based on the v-16 system in Beigman Klebanov, B., Leong, C., Flor, M. (2018). A corpus of non-native written English 
-annotated for metaphor.  In Proceedings of the Annual Meeting of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies, Volume 2 (Short Papers), pp. 86-91. New Orleans, Louisiana, USA, June.",,,,,
-Ufeat_proportion_verb_metaphor,"Proportion of metaphorically used verbs out of all verbs in the essay, based on the v-16 system in Beigman Klebanov, B., Leong, C., Flor, M. (2018). A corpus of non-native written English annotated for metaphor.  In Proceedings of the Annual Meeting of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies, Volume 2 (Short Papers), pp. 86-91. New Orleans, Louisiana, USA, June.",,,,,
-Ufeat_log_1000_proportion_verb_metaphor,"Log-scaled proportion of metaphorically used verbs out of all verbs in the essay, based on the v-16 system in Beigman Klebanov, B., Leong, C., Flor, M. (2018). A corpus of non-native written English annotated for metaphor.  In Proceedings of the Annual Meeting of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies, Volume 2 (Short Papers), pp. 86-91. New Orleans, Louisiana, USA, June.",,,,,
+annotated for metaphor.  In Proceedings of the Annual Meeting of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies, Volume 2 (Short Papers), pp. 86-91. New Orleans, Louisiana, USA, June.",
+Ufeat_proportion_verb_metaphor,"Proportion of metaphorically used verbs out of all verbs in the essay, based on the v-16 system in Beigman Klebanov, B., Leong, C., Flor, M. (2018). A corpus of non-native written English annotated for metaphor.  In Proceedings of the Annual Meeting of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies, Volume 2 (Short Papers), pp. 86-91. New Orleans, Louisiana, USA, June.",
+Ufeat_log_1000_proportion_verb_metaphor,"Log-scaled proportion of metaphorically used verbs out of all verbs in the essay, based on the v-16 system in Beigman Klebanov, B., Leong, C., Flor, M. (2018). A corpus of non-native written English annotated for metaphor.  In Proceedings of the Annual Meeting of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies, Volume 2 (Short Papers), pp. 86-91. New Orleans, Louisiana, USA, June.",
 Ufeat_uv_ArgNar,"Utility value score (the extent to which the essay writer reflects on the utility of science education to his or her personal and social life) using the ArgNar feature sets from Beigman Klebanov, B., Burstein, J., Harackiewicz, J., Priniski, S., & Mulholland, M. (2017). 	Reflective writing about the utility value of science as a tool for increasing STEM 
-motivation and retention – an AI help scale it up? International Journal of Artificial Intelligence in Education, 27(4): 7891-818.",,,,,
+motivation and retention – an AI help scale it up? International Journal of Artificial Intelligence in Education, 27(4): 7891-818.",
 Ufeat_uv_ArgNarGeneralPronouns,"Utility value score (the extent to which the essay writer reflects on the utility of science education to his or her personal and social life) using the ArgNar+GeneralVoc+Pronouns feature sets from Beigman Klebanov, B., Burstein, J., Harackiewicz, J., Priniski, S., & Mulholland, M. (2017). 	Reflective writing about the utility value of science as a tool for increasing STEM 
-motivation and retention – an AI help scale it up? International Journal of Artificial Intelligence in Education, 27(4): 7891-818.",,,,,
+motivation and retention – an AI help scale it up? International Journal of Artificial Intelligence in Education, 27(4): 7891-818.",
 Ufeat_uv_General,"Utility value score  (the extent to which the essay writer reflects on the utility of science education to his or her personal and social life) using the GeneralVoc feature set from Beigman Klebanov, B., Burstein, J., Harackiewicz, J., Priniski, S., & Mulholland, M. (2017).	Reflective writing about the utility value of science as a tool for increasing STEM 
-motivation and retention – an AI help scale it up? International Journal of Artificial Intelligence in Education, 27(4): 7891-818.",,,,,
+motivation and retention – an AI help scale it up? International Journal of Artificial Intelligence in Education, 27(4): 7891-818.",
 Ufeat_uv_Pronouns,"Utility value score  (the extent to which the essay writer reflects on the utility of science education to his or her personal and social life) using the Pronouns feature set from Beigman Klebanov, B., Burstein, J., Harackiewicz, J., Priniski, S., & Mulholland, M. (2017). 	Reflective writing about the utility value of science as a tool for increasing STEM 
-motivation and retention – an AI help scale it up? International Journal of Artificial Intelligence in Education, 27(4): 7891-818.",,,,,
-Ufeat_avgPosETSL,"ETS Sentiment Wordlist: Average Positive Affect. The Sentiment ETS Word List is a list of English words with associated positive and negative polarity scores. The scores for each words in the list are averages from the scores assigned per word in an experimental setting. See publication ""Beigman Klebanov, Madnani, Burstein (2013). Using Pivot-Based Paraphrasing and Sentiment Profiles to Improve a Subjectivity Lexicon for Essay Data. The list was automatically expanded to include all inflectional variants of the original words. When ""Average Positive Affect"" is computed per text, we consider only text-words that have positive affect, sum their scores from the List, and divide by total count of words in the text.",,,,,
+motivation and retention – an AI help scale it up? International Journal of Artificial Intelligence in Education, 27(4): 7891-818.",
+Ufeat_avgPosETSL,"ETS Sentiment Wordlist: Average Positive Affect. The Sentiment ETS Word List is a list of English words with associated positive and negative polarity scores. The scores for each words in the list are averages from the scores assigned per word in an experimental setting. See publication ""Beigman Klebanov, Madnani, Burstein (2013). Using Pivot-Based Paraphrasing and Sentiment Profiles to Improve a Subjectivity Lexicon for Essay Data. The list was automatically expanded to include all inflectional variants of the original words. When ""Average Positive Affect"" is computed per text, we consider only text-words that have positive affect, sum their scores from the List, and divide by total count of words in the text.",
 Ufeat_avgNegETSL,"ETS Sentiment Wordlist: Average Negative Affect. The Sentiment ETS Word List is a list of English words with associated positive and negative polarity scores. The scores for each words in the list are averages from the scores assigned per word in an experimental setting. See publication  ""Beigman Klebanov, Madnani, Burstein (2013). Using Pivot-Based Paraphrasing and Sentiment Profiles to Improve a Subjectivity Lexicon for Essay Data.   The list was automatically expanded to include all inflectional variants of the original words. When ""Average Negative Affect"" is computed per text, we consider only text-words that have negative affect, sum their scores from the List, and divide by total count of words in the text.
-",,,,,
+",
 Ufeat_avgSaturationETSL,"ETS Sentiment Wordlist: Average Saturation. The Sentiment ETS Word List is a list of English words with associated positive and negative polarity scores. The scores for each words in the list are averages from the scores assigned per word in an experimental setting. See publication  ""Beigman Klebanov, Madnani, Burstein (2013). Using Pivot-Based Paraphrasing and Sentiment Profiles to Improve a Subjectivity Lexicon for Essay Data.   The list was automatically expanded to include all inflectional variants of the original words. When ""Average Saturation"" is computed per text, we consider only the magnitude of the scores (but not their polarity), so as to estimate the affective 'intensity' of a text.
-",,,,,
+",
 Ufeat_avgPosVADER,"VADER Sentiment Wordlist: Average Positive Affect. The VADER Sentiment Word List is a list of English words with associated positive or polarity scores. The scores for each words in the list are averages from the scores assigned per word in an experimental setting. See publication  ""Hutto & Gilbert (2014). VADER: A Parsimonious Rule-based Model for Sentiment Analysis of Social Media Text. ICWSM14 conference.""   The list was automatically expanded to include all inflectional variants of the original words. When ""Average Positive Affect"" is computed per text, we consider only text-words that have positive affect, sum their scores from the List, and divide by total count of words in the text.
-",,,,,
+",
 Ufeat_avgNegVADER,"VADER Sentiment Wordlist: Average Negative Affect. The VADER Sentiment Word List is a list of English words with associated positive or polarity scores. The scores for each words in the list are averages from the scores assigned per word in an experimental setting. See publication  ""Hutto & Gilbert (2014). VADER: A Parsimonious Rule-based Model for Sentiment Analysis of Social Media Text. ICWSM14 conference.""   The list was automatically expanded to include all inflectional variants of the original words. When ""Average Negative Affect"" is computed per text, we consider only text-words that have negative affect, sum their scores from the List, and divide by total count of words in the text.
-",,,,,
+",
 Ufeat_avgSaturationVADER,"VADER Sentiment Wordlist: Average Saturation (Sum of all affect scores divided by number of included words). The VADER Sentiment Word List is a list of English words with associated positive or polarity scores. The scores for each words in the list are averages from the scores assigned per word in an experimental setting. See publication  ""Hutto & Gilbert (2014). VADER: A Parsimonious Rule-based Model for Sentiment Analysis of Social Media Text. ICWSM14 conference.""   The list was automatically expanded to include all inflectional variants of the original words. When ""Average Saturation"" is computed per text, we consider only the magnitude of the scores (but not their polarity), so as to estimate the affective 'intensity' of a text. 
-",,,,,
-Ufeat_max_lsa5,Latent semantic analysis values computed for long-distance sentence pairs (long distance >= 5 intervening sentences).,,,,,
-Ufeat_VocabularyRichness3,"Aggregate feature composed of a number of text-based vocabulary-related measures (e.g., morphological complexity, relatedness of words in a text).",,,,,
-Ufeat_COLPREP,Aggregate measure related to collocation and preposition,,,,,
-Ufeat_DIS_COH,Indication of discourse coherence,,,,,
-Ufeat_GRAMMATICALITY,Aggregate value generated for relative grammaticality ,,,,,
-Ufeat_GUMS101,Indication of sentence fragment errors ,,,,,
-Ufeat_GUMS102,Indication of run-on sentences,,,,,
-Ufeat_GUMS103,Indication of garbled sentences,,,,,
-Ufeat_GUMS104,Indication of subject-verb agreement errors,,,,,
-Ufeat_GUMS105,"Indication of ill-formed verbs (e.g., ""is go"" instead of ""is going, ""should of"" instead of ""should have"")",,,,,
-Ufeat_GUMS106,Indication of pronoun errors ,,,,,
-Ufeat_GUMS107,"Indication of possessive errors (e.g., a missing apostrophe)",,,,,
-Ufeat_GUMS108,"Indication of errors pertaining to the absence or misuse of the word ""the"".",,,,,
-Ufeat_GUMS109,"Measure indicating that grammar, usage, and/or mechanics errors occur in a setnence.",,,,,
-Ufeat_GUMS201,Indication of determiner-noun agreement errors,,,,,
-Ufeat_GUMS202,Indication of missing or extra articles,,,,,
-Ufeat_GUMS203,"Indication of commonly confused words, including homophonous or near-homophonous words (e.g., stationary/stationery) ",,,,,
-Ufeat_GUMS204,"Indication of word-form errors (e.g., nominal forms in place of verbs or verbs following determiners).",,,,,
-Ufeat_GUMS205,"Indication of faulty comparisons (e.g., ""more better"")",,,,,
-Ufeat_GUMS206,Indication of preposition errors,,,,,
-Ufeat_GUMS207,"Indication of non-standard word form or verb errors (e.g., kinda, gonna)",,,,,
-Ufeat_GUMS208,"Indication of negation errors (e.g., double negative)",,,,,
-Ufeat_GUMS209,Indication of part of speech errors,,,,,
-Ufeat_GUMS210,"Indication of article type errors (e.g., mistakenly using a definite article instead of an indefinite article)",,,,,
-Ufeat_GUMS301,Indication of spelling errors,,,,,
-Ufeat_GUMS302,Indication of errors pertaining to the capitalization of proper nouns,,,,,
-Ufeat_GUMS303,Indication of missing initial capital letters,,,,,
-Ufeat_GUMS304,Indication of missing question marks,,,,,
-Ufeat_GUMS305,Indication of missing final punctuation,,,,,
-Ufeat_GUMS306,Indication of missing apostrophes ,,,,,
-Ufeat_GUMS307,Indication of missing commas,,,,,
-Ufeat_GUMS308,Indication of hyphen errors,,,,,
-Ufeat_GUMS309,"Indication of fused words errors (e.g., ""noone"", ""highschool"", ""everytime"")",,,,,
-Ufeat_GUMS310,"Indication of compound word errors, which involve the erroneous division of compound words into separate words (e.g., ""an other"", ""drug store"", ""for ever"")",,,,,
-Ufeat_GUMS311,"Indication of duplication errors, which are situations where two words are used when one is appropriate.  The words may be identical (e.g., I went to to the store.), or serve the same functional purpose (e.g., ""I drove to a some store"")",,,,,
-Ufeat_GUMS312,Indication of extraneous comma errors,,,,,
-Ufeat_GUMS401,Measure of repetition of words,,,,,
-Ufeat_GUMS402,Number of inappropriate words or phrases,,,,,
-Ufeat_GUMS403,Number of Sentences Beginning with Coordinating Conjunction,,,,,
-Ufeat_GUMS404,Measure of number of short sentences,,,,,
-Ufeat_GUMS405,Measure of number of long sentences,,,,,
-Ufeat_GUMS406,Number of passive sentences,,,,,
-Ufeat_GUMS501,Measure indicating the presence or absence of a thesis statement (sentences).,,,,,
-Ufeat_GUMS502,Measure indicating the presence or absence of a main idea (sentences).,,,,,
-Ufeat_GUMS503,Measure indicating the presence or absence of supporting details (sentences).,,,,,
-Ufeat_GUMS504,Measure indicating the presence or absence of a conclusion statement (sentences).,,,,,
-Ufeat_GUMS505,Measure indicating the presence or absence of introductory material (sentences).,,,,,
-Ufeat_GUMS506,Microfeature: Other,,,,,
-Ufeat_LOGDTA,Measure of idea development based on discourse units (GUMS501 - 506),,,,,
-Ufeat_LOGDTU,Measure of organization based on discourse units (GUMS501 - 506) ,,,,,
-Ufeat_SVF,Syntactic Variety (based on weighted combination of features),,,,,
-Ufeat_WORDLN_2,Word length measure calculated based on the number of characters divided by the number of words,,,,,
-Ufeat_k,"Last mention in the text of largest topic keyword, where largest topic may be considered the `main topic`.",,,,,
-Ufeat_m,First mention in the text of largest topic keyword ,,,,,
-Ufeat_m_minus_k,Number of words between first and last mention of the largest topic keyword,,,,,
-Ufeat_m_minus_k_over_n,Number of words between first and last mention of the largest topic keyword / total number of words in the text,,,,,
-Ufeat_sentences_between_m_and_k,Number of sentences between first and last mention of the largest topic keyword,,,,,
-Ufeat_paragraphs_between_m_and_k,Number of paragraphs between first and last mention of the largest topic keyword,,,,,
-Ufeat_TopicDev_largestElabTopic_4.5,Number of words associated with the largest topic,,,,,
-Ufeat_TopicDev_largestElabTopic_4.5_logFr1000,Normalized number of words associated with the largest topic,,,,,
-Ufeat_Sources,Number of in-text formal citations,,,,,
-Ufeat_Sources_norm,Average number of in-text formal citations,,,,,
-Ufeat_claims,"Number of claims terms (e.g., I agree that ...)",,,,,
-Ufeat_claims_agnostic,Number of claims that are neither boosters nor hedges,,,,,
-Ufeat_claims_agnostic_norm,Average number of claims that are neither boosters nor hedges,,,,,
-Ufeat_claims_boost,"Number of claim booster terms (e.g., clearly, obviously)",,,,,
-Ufeat_claims_boost_norm,Average number of claim booster terms,,,,,
-Ufeat_claims_hedge,"Number of claim hedge terms (e.g., may, might)",,,,,
-Ufeat_claims_hedge_norm,Average number of claim hedge terms,,,,,
-Ufeat_claims_norm,Average number of claims,,,,,
-Ufeat_complex_clauses,Number of sentences with 1 independent clause plus >= 1 dependent clauses.,,,,,
-Ufeat_complex_clauses_norm,Average number of sentences with 1 independent clause plus >=1 dependent clauses,,,,,
-Ufeat_contractions,Number of contractions,,,,,
-Ufeat_contractions_norm,Average number of contractions,,,,,
-Ufeat_gum_errors,"Number of grammar, usage, and mechanics errors (from e-rater)",,,,,
-Ufeat_gum_errors_norm,"Average number of grammar, usage, and mechanics errors (from e-rater)",,,,,
-Ufeat_pronouns,Number of pronouns,,,,,
-Ufeat_pronouns_norm,Average number of pronouns,,,,,
-Ufeat_section_and_citation_headers,Number of title and section headers,,,,,
-Ufeat_section_and_citation_headers_norm,Average number of title and section headers,,,,,
-Ufeat_sentence_count,Number of sentences.,,,,,
-Ufeat_sentence_count_norm,Average Sentence Count (number of sentences/number of words),,,,,
-Ufeat_transition_terms,Number of transition terms,,,,,
-Ufeat_transition_terms_norm,Average number of transition terms,,,,,
-Ufeat_typestokens,Type-token word ratio,,,,,
+",
+Ufeat_max_lsa5,Latent semantic analysis values computed for long-distance sentence pairs (long distance >= 5 intervening sentences).,
+Ufeat_VocabularyRichness3,"Aggregate feature composed of a number of text-based vocabulary-related measures (e.g., morphological complexity, relatedness of words in a text).",
+Ufeat_COLPREP,Aggregate measure related to collocation and preposition,
+Ufeat_DIS_COH,Indication of discourse coherence,
+Ufeat_GRAMMATICALITY,Aggregate value generated for relative grammaticality ,
+Ufeat_GUMS101,Indication of sentence fragment errors ,
+Ufeat_GUMS102,Indication of run-on sentences,
+Ufeat_GUMS103,Indication of garbled sentences,
+Ufeat_GUMS104,Indication of subject-verb agreement errors,
+Ufeat_GUMS105,"Indication of ill-formed verbs (e.g., ""is go"" instead of ""is going, ""should of"" instead of ""should have"")",
+Ufeat_GUMS106,Indication of pronoun errors ,
+Ufeat_GUMS107,"Indication of possessive errors (e.g., a missing apostrophe)",
+Ufeat_GUMS108,"Indication of errors pertaining to the absence or misuse of the word ""the"".",
+Ufeat_GUMS109,"Measure indicating that grammar, usage, and/or mechanics errors occur in a setnence.",
+Ufeat_GUMS201,Indication of determiner-noun agreement errors,
+Ufeat_GUMS202,Indication of missing or extra articles,
+Ufeat_GUMS203,"Indication of commonly confused words, including homophonous or near-homophonous words (e.g., stationary/stationery) ",
+Ufeat_GUMS204,"Indication of word-form errors (e.g., nominal forms in place of verbs or verbs following determiners).",
+Ufeat_GUMS205,"Indication of faulty comparisons (e.g., ""more better"")",
+Ufeat_GUMS206,Indication of preposition errors,
+Ufeat_GUMS207,"Indication of non-standard word form or verb errors (e.g., kinda, gonna)",
+Ufeat_GUMS208,"Indication of negation errors (e.g., double negative)",
+Ufeat_GUMS209,Indication of part of speech errors,
+Ufeat_GUMS210,"Indication of article type errors (e.g., mistakenly using a definite article instead of an indefinite article)",
+Ufeat_GUMS301,Indication of spelling errors,
+Ufeat_GUMS302,Indication of errors pertaining to the capitalization of proper nouns,
+Ufeat_GUMS303,Indication of missing initial capital letters,
+Ufeat_GUMS304,Indication of missing question marks,
+Ufeat_GUMS305,Indication of missing final punctuation,
+Ufeat_GUMS306,Indication of missing apostrophes ,
+Ufeat_GUMS307,Indication of missing commas,
+Ufeat_GUMS308,Indication of hyphen errors,
+Ufeat_GUMS309,"Indication of fused words errors (e.g., ""noone"", ""highschool"", ""everytime"")",
+Ufeat_GUMS310,"Indication of compound word errors, which involve the erroneous division of compound words into separate words (e.g., ""an other"", ""drug store"", ""for ever"")",
+Ufeat_GUMS311,"Indication of duplication errors, which are situations where two words are used when one is appropriate.  The words may be identical (e.g., I went to to the store.), or serve the same functional purpose (e.g., ""I drove to a some store"")",
+Ufeat_GUMS312,Indication of extraneous comma errors,
+Ufeat_GUMS401,Measure of repetition of words,
+Ufeat_GUMS402,Number of inappropriate words or phrases,
+Ufeat_GUMS403,Number of Sentences Beginning with Coordinating Conjunction,
+Ufeat_GUMS404,Measure of number of short sentences,
+Ufeat_GUMS405,Measure of number of long sentences,
+Ufeat_GUMS406,Number of passive sentences,
+Ufeat_GUMS501,Measure indicating the presence or absence of a thesis statement (sentences).,
+Ufeat_GUMS502,Measure indicating the presence or absence of a main idea (sentences).,
+Ufeat_GUMS503,Measure indicating the presence or absence of supporting details (sentences).,
+Ufeat_GUMS504,Measure indicating the presence or absence of a conclusion statement (sentences).,
+Ufeat_GUMS505,Measure indicating the presence or absence of introductory material (sentences).,
+Ufeat_GUMS506,Microfeature: Other,
+Ufeat_LOGDTA,Measure of idea development based on discourse units (GUMS501 - 506),
+Ufeat_LOGDTU,Measure of organization based on discourse units (GUMS501 - 506) ,
+Ufeat_SVF,Syntactic Variety (based on weighted combination of features),
+Ufeat_WORDLN_2,Word length measure calculated based on the number of characters divided by the number of words,
+Ufeat_k,"Last mention in the text of largest topic keyword, where largest topic may be considered the `main topic`.",
+Ufeat_m,First mention in the text of largest topic keyword ,
+Ufeat_m_minus_k,Number of words between first and last mention of the largest topic keyword,
+Ufeat_m_minus_k_over_n,Number of words between first and last mention of the largest topic keyword / total number of words in the text,
+Ufeat_sentences_between_m_and_k,Number of sentences between first and last mention of the largest topic keyword,
+Ufeat_paragraphs_between_m_and_k,Number of paragraphs between first and last mention of the largest topic keyword,
+Ufeat_TopicDev_largestElabTopic_4.5,Number of words associated with the largest topic,
+Ufeat_TopicDev_largestElabTopic_4.5_logFr1000,Normalized number of words associated with the largest topic,
+Ufeat_Sources,Number of in-text formal citations,
+Ufeat_Sources_norm,Average number of in-text formal citations,
+Ufeat_claims,"Number of claims terms (e.g., I agree that ...)",
+Ufeat_claims_agnostic,Number of claims that are neither boosters nor hedges,
+Ufeat_claims_agnostic_norm,Average number of claims that are neither boosters nor hedges,
+Ufeat_claims_boost,"Number of claim booster terms (e.g., clearly, obviously)",
+Ufeat_claims_boost_norm,Average number of claim booster terms,
+Ufeat_claims_hedge,"Number of claim hedge terms (e.g., may, might)",
+Ufeat_claims_hedge_norm,Average number of claim hedge terms,
+Ufeat_claims_norm,Average number of claims,
+Ufeat_complex_clauses,Number of sentences with 1 independent clause plus >= 1 dependent clauses.,
+Ufeat_complex_clauses_norm,Average number of sentences with 1 independent clause plus >=1 dependent clauses,
+Ufeat_contractions,Number of contractions,
+Ufeat_contractions_norm,Average number of contractions,
+Ufeat_gum_errors,"Number of grammar, usage, and mechanics errors (from e-rater)",
+Ufeat_gum_errors_norm,"Average number of grammar, usage, and mechanics errors (from e-rater)",
+Ufeat_pronouns,Number of pronouns,
+Ufeat_pronouns_norm,Average number of pronouns,
+Ufeat_section_and_citation_headers,Number of title and section headers,
+Ufeat_section_and_citation_headers_norm,Average number of title and section headers,
+Ufeat_sentence_count,Number of sentences.,
+Ufeat_sentence_count_norm,Average Sentence Count (number of sentences/number of words),
+Ufeat_transition_terms,Number of transition terms,
+Ufeat_transition_terms_norm,Average number of transition terms,
+Ufeat_typestokens,Type-token word ratio,
 Ufeat_unnecessary_words,"Number of unnecessary words - ie., words
 and expressions related to a set of 13
 ""unnecessary"" words and terms, such
-as very, literally, and `a total of`.",,,,,
+as very, literally, and `a total of`.",
 Ufeat_unnecessary_words_norm,"Average number of unnecessary words - ie., words
 and expressions related to a set of 13
 ""unnecessary"" words and terms, such
-as very, literally, and `a total of`.",,,,,
-Ufeat_verb_choice,"Number of claim verbs (e.g., discuss)",,,,,
-Ufeat_verb_choice_norm,"Average number of claim verbs (e.g., discuss)",,,,,
-Ufeat_word_count,"Number of words in the text: i.e., identification of  white space in between words. Punctuation is not counted separately.",,,,,
+as very, literally, and `a total of`.",
+Ufeat_verb_choice,"Number of claim verbs (e.g., discuss)",
+Ufeat_verb_choice_norm,"Average number of claim verbs (e.g., discuss)",
+Ufeat_word_count,"Number of words in the text: i.e., identification of  white space in between words. Punctuation is not counted separately.",
 GenreAnnotation_External_Sources_Required,"If the original assignment description from the course instructor was available, annotators indicated whether external sources were required.","? Yes = External sources required
 ? No = External sources not required
-? Unsure/Blank = assignment description was not available",,,,
+? Unsure/Blank = assignment description was not available"
 GenreAnnotation_Source_Use,"Regardless of explicit source requirements, annotators indicated whether students incorporated outside sources in their writing submissions. For the purpose of genre annotation, annotators treated both explicit references and citations as evidence of use of outside sources.","? Yes
 ? No
-? Unsure",,,,
+? Unsure"
 GenreAnnotation_Genre_Classification_Bin,"Annotators sorted writing assignments into 3 ""bins"" based on the aim and audience.
 
 Bin 1 contained writing assignments with the aim of persuasion.  Given the transactional nature of persuasive writing, these assignments were written primarily for external audiences ? either a named hypothetical audience outside of the classroom (e.g., a prospective employer, a politician) or (implicitly or explicitly) for the instructor. These assignments contain substantial argumentative language, with the explicit aim of persuading the reader.
@@ -164,16 +164,30 @@ Bin 2 was used to categorize writing assignments ranging from informative writin
 Bin 3 was used to classify writing assignments with a reflective aim.  These writing submissions targeted the self as the primary audience (though in virtually all cases, the instructor served as an inferred, secondary audience).  Examples from these data included memoirs, self-reflection letters, and personal narratives.  The reflective nature these assignments is signaled by characteristics such as a high frequency of personal pronouns.
 ","1 = Persuasive
 2 = Informative/Exploratory
-3 = Reflective",,,,
+3 = Reflective"
 GenreAnnotation_Writing_Aim,"This column signifies the ""writing aim"", and was autofilled based on the ""genre classification bin"" entry. 
 1 = Persuade
 2 = Inform/Explore
 3 = Reflect","1 = Persuasive
 2 = Informative/Exploratory
-3 = Reflective",,,,
-GenreAnnotation_Annotator,This column signifies which annotator classified this upload.,"? Annotator1
-? Annotator2
-? Annotator3",,,,
-GenreAnnotation_Version,"If multiple versions of an assignment were submitted, annotators labeled the versions as ?Draft?, ?Final?, or ?Possible Duplicate?.  If only one version of an assignment was submitted, this was automatically labeled as ?Final?.  If the same student submitted identical versions of an assignment, each was flagged as a ?Possible Duplicate?.","? Draft
-? Final
-? Possible Duplicate",,,,
+3 = Reflective"
+GenreAnnotation_Annotator,This column signifies which annotator classified this upload.,Annotator1; Annotator2; Annotator3
+GenreAnnotation_Version,"If multiple versions of an assignment were submitted, annotators labeled the versions as ""Draft"", ""Final"", or ""Possible Duplicate"".  If only one version of an assignment was submitted, this was automatically labeled as ""Final"".  If the same student submitted identical versions of an assignment, each was flagged as a ""Possible Duplicate"".",Draft; Final; Possible Duplicate
+Persuasive_Subgenre_Classification,"An annotator assigned subgenre classifications to persuasive writing assignments based on a new persuasive subgenre taxonomy, which were then validated by a second annotator.  This taxonomy consisted of six sub-categories of persuasive writing (ranging from 1-6) that varied in terms of argument value (on a continuum of low to high), source use and integration, and support.  
+
+The first subgenre was labeled “High Value Source-Based Argument--High Value Source Integration with Bibliography.”  These papers consisted of high quality arguments that leveraged multiple reputable sources (e.g., a peer-reviewed journal article) to support their claims.  Not only were these sources effectively integrated into the paper, but they also had to be formally cited in a bibliography.  The second subgenre was labeled “Moderate Value Argument--Some Source Integration.” The persuasive Subgenre 2 papers also supported claims with evidence from outside sources, yet the argumentation and source integration were somewhat less sophisticated in terms of integration.  Markers of lower sophistication may include the absence of a bibliography (or the inclusion of a bibliography with a single citation), exclusive use of non-academic sources (e.g., blog post, dictionary), a heavy reliance on verbatim quotes as opposed to synthesized, integrated evidence from outside sources, or parenthetical citations included with no argumentation.  Subgenre 3 papers were described as “Moderate Value Argument--No Source Integration but Claims Supported.”  Like Subgenre 2 papers, Subgenre 3 papers are considered ""moderate value"" and include claims that are supported with evidence.  The distinguishing trait, however, is the evidence for Subgenre 3 papers do not come from outside sources.  Instead, they may come from the text under discussion, the author’s own knowledge, observations, and life experiences.  Subgenre 4 papers were labeled “Low Value Argument--No Source Integration with Claims Unsupported.”  These papers contained unsubstantiated claims, and did not use any outside sources.  Subgenres 5 and 6 were used to house uploads that contained limited prose, but were building towards a persuasive argument.  More specifically, uploads containing a thesis statement accompanied by a sentence level outline were labeled Subgenre 5 (""Sentence Level Outline, with Thesis""), while annotated bibliographies were labeled as Subgenre 6 (""Annotated Bibliography"").  
+
+Uploads without persuasive subgenre classifications were labeled as ""N/A"" or ""DUP.""
+
+Note that not all uploads identified as ""Persuasive"" (""Bin 1"") during Genre Annotation received a persuasive subgenre classification, as a subset (N=91) were excluded from our persuasive subgenre analysis.  First of all, the analysis only required two uploads from a single participant, so if a student uploaded more than two persuasive essays, the rest were removed from the persuasive subgenre dataset and did not receive a subgenre classification.  Secondly, duplicate uploads with identical or nearly identical texts were marked as ""DUP"" instead of receiving a persuasive subgenre classification.  Additionally, essays with anomalous features (e.g., one file contained multiple writing assignments) were removed.  The rest of the discrepancies may be linked to inter-annotator disagreement.
+
+For more information, please see ies-writing-achievement-study-data/docs/processes/persuasive_subgenre_annotation.pdf
+
+","1 = High Value Source-Based Argument--High Value Source Integration with Bibliography; 2 = Moderate Value Argument--Some Source Integration, Claims Supported, but no Bibliography or Single Citation Bib; 
+3 = Moderate Value Argument--No Source Integration but Claims Supported; 
+4 = Low Value Argument--No Source Integration with Claims Unsupported; 
+5 = Sentence Level Outline, with Thesis; 
+6 = Annotated Bibliography;
+DUP = Duplicate;
+N/A = Not applicable or not available"
+Persuasive_Subgenre_Description,"This column contains the subgenre names corresponding to the subgenre categories (1-6; NS; DUP). For more information, please see ies-writing-achievement-study-data/docs/processes/persuasive_subgenre_annotation.pdf","High Value Source-Based Argument; Moderate Value Argument--Some Source Integration, Claims Supported, but no Bibliography or Single Citation Bib; Moderate Value Argument--No Source Integration but Claims Supported; Low Value Argument--No Source Integration with Claims Unsupported; Sentence Level Outline, with Thesis; Annotated Bibliography; Duplicate; Not applicable or not available"
