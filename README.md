@@ -45,7 +45,7 @@ The following additional files can be found under [`docs`](docs).
 
 - [`processes/genre_annotation.pdf`](docs/processes/genre_annotation.pdf) : This file contains a description of the genre annotation performed to classify writing assignments based on broad assignment types.
 
-- [`persuasive_subgenre_annotation.pdf`](docs/processes/persuasive_subgenre_annotation.pdf) : This file contains a description of the subgenre annotation performed to classify persuasive writing assignments into one of six finer-grained categories based on argument value (on a continuum of low to high), source use and integration, and support. 
+- [`processes/persuasive_subgenre_annotation.pdf`](docs/processes/persuasive_subgenre_annotation.pdf) : This file contains a description of the subgenre annotation performed to classify persuasive writing assignments into one of six finer-grained categories based on argument value (on a continuum of low to high), source use and integration, and support. 
 
 # Related Publications & Presentations
 
