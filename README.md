@@ -69,7 +69,7 @@ The following additional files can be found under [`docs`](docs).
 
 # Contact Us
 
-If you have any questions about the data, please send us an [email](mailto:ETS_IES_WAVES@ets.org?cc=hmolloy@ets.org,phoughton@ets.org,zmladineo@ets.org&subject=IES%20Writing%20Achievement%20Data).
+If you have any questions about the data, you may send us an email [email](mailto:ETS_IES_WAVES@ets.org?cc=hmolloy@ets.org,phoughton@ets.org,zmladineo@ets.org&subject=IES%20Writing%20Achievement%20Data).
 
 # Acknowledgements
 
