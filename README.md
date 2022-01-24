@@ -13,7 +13,7 @@ The repository contains the following main set of files:
 - [`student_data.csv`](student_data.csv) : Data collected from student participants. Two types of data are collected: 
     - **Writing Attitude Survey Data**: This [survey](docs/surveys/writing_attitudes_survey.pdf) measured four components of writing attitudes and beliefs: (1) Goals for Writing, (2) Confidence about Writing Tasks, (3) Beliefs about Writing, and (4) Feelings about Writing. Note that the order of survey questions in this CSV file is _not_ the same as the original order of the questions in the survey. The survey was completed by 566 out of 735 total study participants. For the others, these columns are blank.
 
-    - **Outcomes/Success Predictor Measures**:  A subset of outcomes/success predictor measures for the study participants, including: (1) their course grade (for the course in which writing assignments and surveys were submitted), (2) their study semester GPA, and (3) their SAT Total/ACT Composite score (recoded as `SAT Total score`).
+    - **Outcomes/Success Predictor Measures**:  A subset of outcomes/success predictor measures for the study participants, including: (1) their course grade (for the course in which writing assignments and surveys were submitted), (2) their study semester GPA, (3) their semester GPA for up to five semesters following study enrollment, and (4) their SAT Total/ACT Composite score (recoded as `SAT Total score`).
 
   In total, there are 735 rows and 64 columns in this CSV file. A detailed description of each column can be found [here](docs/student_data_columns.csv).
 

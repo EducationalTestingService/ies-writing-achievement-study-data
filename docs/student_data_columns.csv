@@ -5,6 +5,11 @@ FINAL_SAT_total,"Variable capturing participants' SAT Total scores, which combin
 
 For more information on concordance, see The College Board. (n.d.). Concordance. Retrieved from https://collegereadiness.collegeboard.org/educators/higher-ed/scoring/concordance.",N/A,N/A,400-1600
 StudySemester_cumGPA,Student's cumulative GPA at the end of the semester in which students joined the study and submitted writing assignments.,N/A,N/A,0.0-4.0
+StudySemester_plusone_cumGPA,Student's cumulative GPA one semester after the student joined the study and submitted writing assignments.,N/A,N/A,0.0-4.0
+StudySemester_plustwo_cumGPA,Student's cumulative GPA two semesters after the student joined the study and submitted writing assignments.,N/A,N/A,0.0-4.0
+StudySemester_plusthree_cumGPA,Student's cumulative GPA three semesters after the student joined the study and submitted writing assignments.,N/A,N/A,0.0-4.0
+StudySemester_plusfour_cumGPA,Student's cumulative GPA four semesters after the student joined the study and submitted writing assignments.,N/A,N/A,0.0-4.0
+StudySemester_plusfive_cumGPA,Student's cumulative GPA five semesters after the student joined the study and submitted writing assignments.,N/A,N/A,0.0-4.0
 Q3.7_Writing_Attitudes_Survey,Good writers discover new ideas while writing.,Part 3: Beliefs About Writing,Please read the following and circle the number 1-5 that best describes how much you disagree or agree with each belief statement. ,"1 = Strongly Disagree
 2 = Disagree
 3 = Neither agree nor disagree
